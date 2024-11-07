@@ -28,5 +28,5 @@ jobs:
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
         publish_dir: ./public
-        publish_branch: deploy  # Ensure this is your target deployment branch
+        publish_branch: gh-pages  # Ensure this is your target deployment branch
         keep_files: true  # Set to false to clean old files from deployment branch
