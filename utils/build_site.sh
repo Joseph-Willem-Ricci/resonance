@@ -3,19 +3,17 @@
 # see https://www.gnu.org/licenses/agpl-3.0.html
 # Support your local low-tech magazine: https://solar.lowtechmagazine.com/donate/
 
-
-# TODO: fix paths
 now=`date`
-baseURL="resonance.tools" #the URL of the website e.g. htttps://solar.lowtechmagazine.com/
-contentDir="../content/" #the directory where your HUGO articles are e.g. /path/to/repo/solar_v2/content/
-repoDir=$(dirname $(dirname $(realpath $0))) #the full path to the root directory
-outputDir="$repoDir/public" # the directory where you export the site to.
+baseURL="" #the URL of the website e.g. htttps://solar.lowtechmagazine.com/
+contentDir="" #the directory where your HUGO articles are e.g. /path/to/repo/solar_v2/content/
+repoDir="" #the full path to the repository
+outputDir="" # the directory where you export the site to.
 
 
 while getopts f flag
 do
     case "${flag}" in
-        f) updated="forced rebuild";;
+        (f) updated="forced rebuild";;
     esac
 done
 
