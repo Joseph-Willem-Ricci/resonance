@@ -20,6 +20,11 @@ jobs:
         hugo-version: 'latest'
         extended: true
 
+    - name: Process Images
+      run: python utils/dither_images.py --directory content/
+      env:
+        PYTHON_VERSION: '3.8'  # Specify the Python version if necessary
+
     - name: Build
       run: hugo --config config/config.toml --minify
 
