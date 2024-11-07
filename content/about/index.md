@@ -10,7 +10,7 @@ featured_image: "author-and-daffodils-by-morgan-creek.png"
 draft: false
 ---
 
-Hello internet-using world. Hi!
+Hello internet-using world.
 
 {{< figure src="author-and-daffodils-by-morgan-creek.png" caption="The author in a field of daffodils by Morgan Creek in Chapel Hill, NC." >}}
 {{< /figure >}}
