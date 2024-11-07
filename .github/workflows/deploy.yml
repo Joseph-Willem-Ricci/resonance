@@ -1,0 +1,31 @@
+name: Deploy Hugo to GitHub Pages
+
+on:
+  push:
+    branches:
+      - main  # Or your default branch name
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout
+      uses: actions/checkout@v3
+      with:
+        fetch-depth: 0  # Ensures history is available for Git commands, important for Hugo's Lastmod
+
+    - name: Setup Hugo
+      uses: peaceiris/actions-hugo@v2
+      with:
+        hugo-version: 'latest'
+
+    - name: Build
+      run: hugo --minify
+
+    - name: Deploy
+      uses: peaceiris/actions-gh-pages@v3
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        publish_dir: ./public
+        publish_branch: deploy  # Ensure this is your target deployment branch
+        keep_files: true  # Set to false to clean old files from deployment branch
