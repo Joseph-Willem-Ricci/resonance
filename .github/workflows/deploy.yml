@@ -12,7 +12,15 @@ jobs:
     - name: Checkout
       uses: actions/checkout@v3
       with:
-        fetch-depth: 0  # Ensures history is available for Git commands, important for Hugo's Lastmod
+        fetch-depth: 0
+
+    - name: Clear gh-pages branch
+      run: |
+        git fetch origin gh-pages
+        git checkout gh-pages
+        git rm -r *
+        git commit -m "Clean old files"
+        git push origin gh-pages
 
     - name: Setup Hugo
       uses: peaceiris/actions-hugo@v2
