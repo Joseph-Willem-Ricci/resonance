@@ -8,7 +8,7 @@ Requires Hugo 0.10x or newer!
 
 ## Local Development
 ```
-hugo server
+hugo server --config config/config.toml
 ```
 
 ## Organizing content
