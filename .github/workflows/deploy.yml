@@ -24,6 +24,12 @@ jobs:
         git commit -m "Clean old files"
         git push origin gh-pages
 
+
+    - name: Checkout main branch again
+      uses: actions/checkout@v3
+      with:
+        fetch-depth: 0
+
     - name: Setup Hugo
       uses: peaceiris/actions-hugo@v2
       with:
