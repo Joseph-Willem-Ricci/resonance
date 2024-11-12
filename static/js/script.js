@@ -1,10 +1,10 @@
 // console.log('script loaded');
 
-let url = "/api/stats.json";  
-let data;
-let solar_stats = [];
-let battery_stats = [];
-let general_stats = [];
+// let url = "/api/stats.json";  
+// let data;
+// let solar_stats = [];
+// let battery_stats = [];
+// let general_stats = [];
 
 // loadJSON();
 
@@ -39,14 +39,14 @@ let general_stats = [];
 //     }
 // }
 
-function pushData(arr) {
-    // returns a list of dt/dd pairs from a two-dimensional array
-    let stats = [];
-    for (i = 0; i < arr.length; i++) {
-        stats.push("<dt>" + arr[i][0] + "</dt><dd>" + arr[i][1] + "</dd>");
-    }
-    return stats;
-}
+// function pushData(arr) {
+//     // returns a list of dt/dd pairs from a two-dimensional array
+//     let stats = [];
+//     for (i = 0; i < arr.length; i++) {
+//         stats.push("<dt>" + arr[i][0] + "</dt><dd>" + arr[i][1] + "</dd>");
+//     }
+//     return stats;
+// }
 
 // function populateData(data) {
 //     let load = ((data.load_15 / 2) * 100).toFixed(2) + '%';
