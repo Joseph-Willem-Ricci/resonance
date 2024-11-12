@@ -26,7 +26,7 @@ jobs:
     - name: Process Images
       run: python utils/dither_images.py --directory content/
       env:
-        PYTHON_VERSION: '3.8'  # Specify the Python version if necessary
+        PYTHON_VERSION: '3.8'
 
     - name: Build
       run: hugo --config config/config.toml --minify
@@ -36,5 +36,5 @@ jobs:
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
         publish_dir: ./public
-        publish_branch: gh-pages  # Ensure this is your target deployment branch
-        keep_files: true  # Set to false to clean old files from deployment branch
+        publish_branch: gh-pages
+        keep_files: false
