@@ -6,7 +6,7 @@ on:
       - main  # Or your default branch name
 
 env:
-  HUGO_VERSION: 0.138.0
+  HUGO_VERSION: 0.137.1
 
 jobs:
   build-and-deploy:
@@ -34,9 +34,9 @@ jobs:
         fetch-depth: 0
 
     - name: Setup Hugo
-      uses: peaceiris/actions-hugo@v2
+      uses: peaceiris/actions-hugo@v3
       with:
-        hugo-version: 'latest'
+        hugo-version: ${{ env.HUGO_VERSION }}
         extended: true
 
     - name: Install Python dependencies
