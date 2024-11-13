@@ -45,7 +45,7 @@ enableInlineShortcodes = true
 
 [permalinks]
 	posts = '/:year/:month/:slugorfilename/'
-  categories = '/:slug/'
+  categories = '/categories/:slug/'
 
 [params]
 	author = "Joseph Willem Ricci"
