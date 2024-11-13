@@ -3,11 +3,11 @@
 # see https://www.gnu.org/licenses/agpl-3.0.html
 # Support your local low-tech magazine: https://solar.lowtechmagazine.com/donate/
 
-now=`date`
-baseURL="" #the URL of the website e.g. htttps://solar.lowtechmagazine.com/
-contentDir="" #the directory where your HUGO articles are e.g. /path/to/repo/solar_v2/content/
-repoDir="" #the full path to the repository
-outputDir="" # the directory where you export the site to.
+now=$(date)
+baseURL="https://resonance.tools"
+contentDir="../content"
+repoDir="../"
+outputDir="../public"
 
 
 while getopts f flag
