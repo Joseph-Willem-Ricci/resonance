@@ -17,13 +17,13 @@ Joseph Willem Ricci is a programmer, musician, artist, and educator based in Dur
 <details>
     <summary>/digital</summary>
     <p>He is a graduate teaching assistant for <a href="https://artificial-intelligence-class.org" target="_blank">
-    Artificial Intelligence</a> at the University of Pennylvania. His latest work includes <a href="https://github.com/Joseph-Willem-Ricci/wampa_world" target="_blank">Wampa World</a>, a homework assignment on logical inference for knowledge-based agents, <a href="https://poodlescheduler.com" target="_blank">Poodle</a>, a scheduling app for people who receive round-the-clock care, and <a href="https://github.com/Joseph-Willem-Ricci/unimax" target="_blank">Unimax</a>, a chess engine art piece that envisions a world where cooperative algorithms supersede adversarial ones.</p>
+    Artificial Intelligence</a> at the University of Pennylvania. His latest work includes <a href="https://github.com/Joseph-Willem-Ricci/wampa_world" target="_blank">Wampa World</a>, a homework assignment on logical inference for knowledge-based agents, <a href="https://poodlescheduler.com" target="_blank">Poodle</a>, a scheduling app for people who receive round-the-clock care, and <a href="https://unimax.run" target="_blank">Unimax</a>, a chess engine art piece that envisions a world where cooperative algorithms supersede adversarial ones.</p>
 </details>
 
 <details>
     <summary>/musical</summary>
     <p>He has made music under the band name <a href="https://lnkfi.re/an-and-en" target="_blank">Anima & Ennui</a>, and has accompanied <a href="https://youtu.be/OV4nzMo9XSA" target="_blank">Emma Geiger</a>, 
-    <a href="https://lnkfi.re/get-well-soon" target="_blank">Talitha Ferri</a>, and <a href="https://youtu.be/W1ZtBLFKfq8" target="_blank">Donovan Ryan</a> on guitar. He is currently exploring guitar arrangements with with dynamically modulated polyrhythms and shifting time signatures.</p>
+    <a href="https://youtu.be/LyjoYuXLME0" target="_blank">Talitha Ferri</a>, and <a href="https://youtu.be/W1ZtBLFKfq8" target="_blank">Donovan Ryan</a> on guitar. He is currently exploring guitar arrangements with with dynamically modulated polyrhythms and shifting time signatures.</p>
 </details>
 
 <details>
