@@ -154,6 +154,8 @@ In `utils` there are various utilities to be used before or after site rendering
 
 `dither_images.py` recursively traverses folders and creates dithered versions of the images it finds. These are stored in the same folder as the images in a folder called "dithers".
 
+`python utils/dither_images.py --directory content/`
+
 ### Installation & Depedencies
 
 depends on [Pillow](https://pillow.readthedocs.io) and [hitherdither](https://github.com/hbldh/hitherdither)
