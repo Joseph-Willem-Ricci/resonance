@@ -39,9 +39,6 @@ else
         echo "Generating site"
         hugo -b $baseURL --destination $outputDir
 
-        echo "Calculating page sizes"
-        /usr/bin/python3 utils/calculate_size.py --directory $outputDir --baseURL $baseURL
-
         echo "Removing original media from" $outputDir
         /usr/bin/python3 utils/clean_output.py --directory $outputDir
 
