@@ -176,25 +176,6 @@ Run the script with more debug output:
 Remove all dithered files in the subdirectories of `content`:
 `python3 utils/dither_images.py --remove --directory content/`
 
-## Page Size Calculator
-
-This script recursively traverses folders and enumerates the file size of all html pages and associated media.
-The calculated total file size is then added to the HTML page. The script looks for a `div` with class `page-size` to add the page metadata in to. This div is currently found in `layouts/partials/footer.html`
-
-#### Installation & Dependencies
-
-Relies on BeautifulSoup
-
-`pip install bs4`
-
-
-#### Usage
-
-This script should be run *after* the site has been generated on the resulting files. It is a post-processing step.
-In the case of Hugo, this is usually the directory called `public`. Add the baseurl that you also use in production:
-
-`python3 utils/calculate_size.py --directory public/ --baseURL https://solar.lowtechmagazine.com`
-
 ## build_site.sh
 
 This is a script to build the hugo site and run the various support scripts. It assumes you generate and deploy the site on the same machine.
