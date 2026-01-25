@@ -2,7 +2,7 @@
 title: "Article Template: How to write articles and translations in Markdown for Hugo?"
 date: ""
 summary: "This page goes over the specific markdown syntax that should be used to write articles, add translations and comments in the new hugo solar web. "
-lang: "en"
+language: "en"
 authors: ["Marie Verdeil"]
 categories: [""]
 tags: [""]
@@ -143,7 +143,7 @@ The Front matter data at the top of each article should follow the following syn
 title: "Article Title"
 date: "2015-10-26"
 summary: "Article Summary"
-lang: "en"
+language: "en"
 authors: ["Kris De Decker" ]
 categories: ["Low-tech Solutions"]
 tags: ["tag", "tag2" ]
@@ -165,7 +165,7 @@ date: "2015-10-26"
 To add a different language translations changes in the config file are necessary. 
 
 ```yaml
-lang: "en"
+language: "en"
 ```
 
 - The authors, tags and translators fields support several entry, using this syntax:
@@ -192,7 +192,7 @@ featured_image: "image.png"
 draft: false
 ```
 
-_**Always include at least:**_ `title: "", date: "", summary: "Article Summary", lang: "en"`
+_**Always include at least:**_ `title: "", date: "", summary: "Article Summary", language: "en"`
 
 Other metadata fields are available: 
 
@@ -329,7 +329,7 @@ Not all front matter should be translated, or the website might give an error.
 title: "Translate the title"
 date: "YYYY-MM-DD" #of the translation
 summary: "Translate the Article Summary"
-lang: "en" #add the language code (fr, nl, etc.)
+language: "en" #add the language code (fr, nl, etc.)
 translators: ["add translator name", "other translator"]
 ---
 ```

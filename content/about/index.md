@@ -2,7 +2,7 @@
 title: "about"
 date: "2024-11-07"
 summary: "---"
-lang: "en"
+language: "en"
 authors: ["Joseph Willem Ricci"]
 categories: ["About"]
 tags: ["About"]

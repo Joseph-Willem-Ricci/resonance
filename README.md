@@ -1,13 +1,18 @@
-# Solar v.2
+# RESONANCE
 
-- Rebuild of Low-tech Magazine's Solar theme with Hugo
-- Builds the entire site in minutes rather than hours :)
-- Makes use of additional taxonomies that are possible in Hugo
+- Using rebuild of Low-tech Magazine's Solar theme with Hugo
 
-Requires Hugo 0.10x or newer!
+## Setup
+```
+brew install hugo
+```
+```
+pip install git+https://www.github.com/hbldh/hitherdither
+```
 
 ## Local Development
 ```
+python utils/dither_images.py --directory content/
 hugo server --config config/config.toml
 ```
 
@@ -65,7 +70,7 @@ title: "How to Build a Low-tech Internet"
 date: "2015-10-26"
 summary: "If we want the internet to keep working in circumstances where access to energy is more limited, we can learn important lessons from alternative network technologies."
 slug: "how-to-build-a-low-tech-internet"
-lang: "en"
+language: "en"
 authors: ["Kris De Decker" ]
 categories: ["Low-tech Solutions"]
 tags: ["ICT" ]
@@ -73,58 +78,13 @@ featured_image: "tegola-project-low-tech-internet.png"
 draft: false
 ---
 ```
-
-In the case of a translation you can specify the translators as well:
-
-__!! Careful, only some metadata should to be translated, the other needs to be left intact.__
-
-Specifically, the metadata keys (`title`, `date`, `summary` etc.) should remain intact wheras the metadata values can be translated (such as the contents of `title` or `summary`).
-
-However do __not__ translate the values of `slug`, `categories`, `tags` and `featured_image`.
-
-```
----
-title: "Cómo construir una Internet de Baja Tecnología" #TO TRANSLATE
-date: "2015-10-26"
-summary: "Si queremos que internet siga funcionando en circunstancias en que el acceso a la energía es más limitado, entonces podemos aprender lecciones importantes de las tecnologías de red alternativas." #TO TRANSLATE
-slug: "how-to-build-a-low-tech-internet"
-lang: "es" #ADD THE CORRECT LANG code (fr, es, etc.)
-authors: ["Kris De Decker" ]
-categories: ["Low-tech Solutions"]
-tags: ["ICT" ] 
-featured_image: "tegola-project-low-tech-internet.png"
-translators: ["Colectivo Disonancia"] #ADD TRANSLATOR FOR THIS LANGUAGE
-draft: False
----
-```
-
-To add several authors or several tags, we use the following syntax: 
-
-```
----
-authors: ["Kris De Decker","Marie Verdeil" ]
-tags: ["ICT", "another tag", "another other tag"]
----
-``` 
+ 
 ### Image shortcodes
 
 The design relies on shortcodes for images rather than markdown image tags:
 
 `{{% figure src="yutampo2.png" %}} Una borsa d’acqua calda giapponese detta yutampo, fatta di plastica rigida. Fonte: All About Japan. [https://allabout-japan.com/en/article/6244/](https://allabout-japan.com/en/article/6244/) {{% /figure %}}
 `
-
-
-### Reader comments
-If there are any comments to be rendered under an article they should be in a file called `comments.lang.md` and each comment rendered as such:
-```
-{{< comment name="Lord Byron" >}}
-As the Liberty lads o'er the sea
-Bought their freedom, and cheaply, with blood
-So we, boys, we
-Will die fighting, or live free,
-And down with all kings but King Ludd” 
-{{</ comment >}}
-```
 
 ### Internal links
 To link to other articles on the solar website, we use a hugo specific shortcode to call the article folder. This has several advantages: 
@@ -139,11 +99,6 @@ To link to other articles on the solar website, we use a hugo specific shortcode
 [Donate]({{< ref "/donate" >}})
 [here]({{< ref "/posts/power-water-networks/" >}})
 ```
-
-
-## Author & Translator pages
-
-This site builds custom taxonomies for `Authors` and `Translators` which can be accessed via `http://localhost:1313/authors/` and `http://localhost:1313/translators/` respectively. Individual data about each author or translator can be written in `content/authors/authorname/index.md`
 
 
 # Additional utilities

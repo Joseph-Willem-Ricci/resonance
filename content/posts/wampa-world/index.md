@@ -2,7 +2,7 @@
 title: "Wampa World"
 date: "2024-12-17"
 summary: "An Assignment on Logical Inference Algorithms & Knowledge-Based Agents"
-lang: "en"
+language: "en"
 authors: ["Joseph Willem Ricci"]
 categories: ["Digital"]
 featured_image: "credit_darryl_moran.png"
