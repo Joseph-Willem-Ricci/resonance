@@ -4,7 +4,6 @@ title = "resonance.tools"
 
 buildFuture = true
 buildDrafts = false
-paginate = 12
 
 DefaultContentLanguage = "en"
 pluralizelisttitles = "false"
@@ -22,7 +21,8 @@ unsafe = true
 [markup.goldmark.parser.attribute]
 block = true
 
-
+[pagination]
+pagerSize = 12
 
 [markup]
   [markup.highlight]
@@ -44,7 +44,7 @@ block = true
 enableInlineShortcodes = true
 
 [permalinks]
-	posts = '/:year/:month/:slugorfilename/'
+	posts = '/:year/:month/:slugorcontentbasename/'
   categories = '/categories/:slug/'
 
 [params]

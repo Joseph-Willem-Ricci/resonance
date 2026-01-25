@@ -2,7 +2,7 @@
 title: "Unimax: Cooperative Algorithm"
 date: "2024-11-29"
 summary: "Unlearning Adversarial Paradigms of Computation & Imagining Alternatives"
-lang: "en"
+language: "en"
 authors: ["Joseph Willem Ricci"]
 categories: ["Digital"]
 featured_image: "unimax.png"
