@@ -4,7 +4,7 @@ date: "2024-12-17"
 summary: "An Assignment on Logical Inference Algorithms & Knowledge-Based Agents"
 language: "en"
 authors: ["Joseph Willem Ricci"]
-categories: ["Digital"]
+categories: ["Code"]
 featured_image: "credit_darryl_moran.png"
 draft: false
 ---

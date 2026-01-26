@@ -1,8 +1,14 @@
 <header class="site-header">
   <h1><a id="top" href="{{ absLangURL "/" }}">{{ site.Title }}</a></h1>
   <div class="subtitle">
-     <a href="{{ absLangURL "/" }}">{{i18n "sitesubtitle" | default .Site.Params.description}}      
-    </a>
+    ~
+    <a href="{{ absLangURL "/code" }}">{{i18n "sitesubtitle" | default .Site.Params.code}} </a>
+    ~
+    <a href="{{ absLangURL "/music" }}">{{i18n "sitesubtitle" | default .Site.Params.music}} </a>
+    ~
+    <a href="{{ absLangURL "/radio" }}">{{i18n "sitesubtitle" | default .Site.Params.radio}} </a>
+    ~
+
   </div>
   {{ partial "nav" . }}
  
