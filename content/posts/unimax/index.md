@@ -4,7 +4,7 @@ date: "2024-11-29"
 summary: "Unlearning Adversarial Paradigms of Computation & Imagining Alternatives"
 language: "en"
 authors: ["Joseph Willem Ricci"]
-categories: ["Digital"]
+categories: ["Code"]
 featured_image: "unimax.png"
 draft: false
 ---
