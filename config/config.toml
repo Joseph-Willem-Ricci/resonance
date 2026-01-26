@@ -1,6 +1,6 @@
 baseURL = "https://resonance.tools/"
 languageCode = "en-us"
-title = "resonance.tools"
+title = "Tools of Resonance"
 
 buildFuture = true
 buildDrafts = false
@@ -50,6 +50,9 @@ enableInlineShortcodes = true
 [params]
 	author = "Joseph Willem Ricci"
   description = "tools of resonance"
+  code = "code"
+  music = "music"
+  radio = "radio"
 
 [menu]
 [[menu.main]]
