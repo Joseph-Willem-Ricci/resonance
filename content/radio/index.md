@@ -17,7 +17,7 @@ I'm DJing on WXDU 8-9am on Wednesdays. Tune in on 88.7fm or at [wxdu.org](https:
 [Listen to (almost) everything I've played on WXDU](https://tidal.com/playlist/3f03241f-b1df-4fe2-8600-9b2ecfafd60a)
 
 [Wednesday, January 21, 2026 8-9am Tidal Playlist](https://tidal.com/playlist/c3d6a780-cd12-42b9-a1d2-8234143e9d4a)\
-Helena Deland - Bright Green Vibrany Gray\
+Helena Deland - Bright Green Vibrant Gray\
 School of X - 1989\
 Juni Habel - Evergreen In Your Mind\
 Anna Tivel - Memphis\
