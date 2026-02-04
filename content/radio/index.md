@@ -16,6 +16,25 @@ I'm DJing on WXDU 8-9am on Wednesdays. Tune in on 88.7fm or at [wxdu.org](https:
 
 [Listen to (almost) everything I've played on WXDU](https://tidal.com/playlist/3f03241f-b1df-4fe2-8600-9b2ecfafd60a)
 
+[Wednesday, February 4, 2026 8-9am ft. DJ Panzón (Adrian Martinez Chavez) Tidal Playlist](https://tidal.com/playlist/44dd2c4c-36bc-4d20-b482-32e8daae4c61)\
+Efterklang - Uden Ansigt\
+K-LONE - fauna\
+Kill the Buddha - Mr. G.\
+Oneohtrix Point Never - Bell Scanner\
+Combo Chimbita - Pajaro (Panzón)\
+Los Cheyenes - Black Gold (Panzón)\
+La Tribu - Para Que (Panzón)\
+Los Corraleros de Majagual & Ruido Selecto - Cumbia Saramuya (Rebejada Dubmix) (Panzón)\
+Laurel Premo - On My Way To See Nancy\
+Grupo Jejeje - Asuka (Panzón)\
+Conjunto Media Luna & Turbo Sonidero - Kumbia Dos Pasitos (Panzón)\
+Amantes de Futuro - Cumbia de la Montaña (Panzón)\
+Los Discos Duro - Chambacu (Panzón)\
+Yo La Tengo - Leaving Home\
+Bebel Gilberto - Tanto Tempo\
+Claire Rousay - night one\
+Sally Anne Morgan - Awake
+
 [Wednesday, January 21, 2026 8-9am Tidal Playlist](https://tidal.com/playlist/c3d6a780-cd12-42b9-a1d2-8234143e9d4a)\
 Helena Deland - Bright Green Vibrant Gray\
 School of X - 1989\
