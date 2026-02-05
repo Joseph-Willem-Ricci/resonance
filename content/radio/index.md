@@ -16,7 +16,10 @@ I'm DJing on WXDU 8-9am on Wednesdays. Tune in on 88.7fm or at [wxdu.org](https:
 
 [Listen to (almost) everything I've played on WXDU](https://tidal.com/playlist/3f03241f-b1df-4fe2-8600-9b2ecfafd60a)
 
-[Wednesday, February 4, 2026 8-9am ft. DJ Panzón (Adrian Martinez Chavez) Tidal Playlist](https://tidal.com/playlist/44dd2c4c-36bc-4d20-b482-32e8daae4c61)\
+[Wednesday, February 4, 2026 8-9am ft. DJ Panzón (Adrian Martinez Chavez) Tidal Playlist](https://tidal.com/playlist/44dd2c4c-36bc-4d20-b482-32e8daae4c61)
+
+~ {{< audio src="wxdu-2026-02-04.ogg" >}} ~
+
 Efterklang - Uden Ansigt\
 K-LONE - fauna\
 Kill the Buddha - Mr. G.\
@@ -35,7 +38,10 @@ Bebel Gilberto - Tanto Tempo\
 Claire Rousay - night one\
 Sally Anne Morgan - Awake
 
-[Wednesday, January 21, 2026 8-9am Tidal Playlist](https://tidal.com/playlist/c3d6a780-cd12-42b9-a1d2-8234143e9d4a)\
+[Wednesday, January 21, 2026 8-9am Tidal Playlist](https://tidal.com/playlist/c3d6a780-cd12-42b9-a1d2-8234143e9d4a)
+
+~ {{< audio src="wxdu-2026-01-21.ogg" >}} ~
+
 Helena Deland - Bright Green Vibrant Gray\
 School of X - 1989\
 Juni Habel - Evergreen In Your Mind\
@@ -55,7 +61,10 @@ Weirs - I Want to Die Easy\
 Weirs - Doxology (I)\
 Amaria Hamadalher - Tarhanine
 
-[Wednesday, January 7, 2026 8-9am Tidal Playlist](https://tidal.com/playlist/449ff643-f332-47c0-b0c7-0134ceb84ed1)\
+[Wednesday, January 7, 2026 8-9am Tidal Playlist](https://tidal.com/playlist/449ff643-f332-47c0-b0c7-0134ceb84ed1)
+
+~ {{< audio src="wxdu-2026-01-07.ogg" >}} ~
+
 Chorus Grant - Grass Snake\
 Fine - Losing Tennessee\
 Mike Polizze - It Goes Without Saying\
@@ -74,7 +83,10 @@ Tiny Ruins - Olympic Girls\
 Ragana, Drowse - In Eternal Woods, Pt. 4\
 Holy Sons - Everything
 
-[Wednesday, December 31, 2025 8-9am Tidal Playlist](https://tidal.com/playlist/c7dc28ef-b04c-4926-a9e5-d8587da924a8)\
+[Wednesday, December 31, 2025 8-9am Tidal Playlist](https://tidal.com/playlist/c7dc28ef-b04c-4926-a9e5-d8587da924a8)
+
+~ {{< audio src="wxdu-2025-12-31.ogg" >}} ~
+
 Loma - Ocotillo\
 Holy Sons - Puritan Themes\
 Buck Meek - Lagrimas\
