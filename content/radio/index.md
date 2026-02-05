@@ -91,7 +91,7 @@ Loma - Ocotillo\
 Holy Sons - Puritan Themes\
 Buck Meek - Lagrimas\
 Lhasa De Sela - La Frontera\
-Jake Xerxees Fussell, James Elkington - Riding To The Ranch\
+Jake Xerxes Fussell, James Elkington - Riding To The Ranch\
 Akiko Yano - Satchan\
 Sam Evian - Cactus\
 Almon Memela - Amapoyisa\

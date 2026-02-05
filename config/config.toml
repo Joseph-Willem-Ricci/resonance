@@ -53,6 +53,7 @@ enableInlineShortcodes = true
   code = "code"
   music = "music"
   radio = "radio"
+  photo = "photo"
 
 [menu]
 [[menu.main]]
