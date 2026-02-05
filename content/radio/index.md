@@ -16,7 +16,7 @@ I'm DJing on WXDU 8-9am on Wednesdays. Tune in on 88.7fm or at [wxdu.org](https:
 
 [Listen to (almost) everything I've played on WXDU](https://tidal.com/playlist/3f03241f-b1df-4fe2-8600-9b2ecfafd60a)
 
-[Wednesday, February 4, 2026 8-9am ft. DJ Panzón (Adrian Martinez Chavez) Tidal Playlist](https://tidal.com/playlist/44dd2c4c-36bc-4d20-b482-32e8daae4c61)
+[Wednesday, February 4, 2026 8-9am Tidal Playlist](https://tidal.com/playlist/44dd2c4c-36bc-4d20-b482-32e8daae4c61) ft. [DJ Panzón](https://www.mixcloud.com/sonidopanzon/) ([Adrian Martinez Chavez](https://www.adrianmartinezchavez.com/))
 
 ~ {{< audio src="wxdu-2026-02-04.ogg" >}} ~
 
