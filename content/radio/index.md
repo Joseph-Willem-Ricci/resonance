@@ -12,9 +12,34 @@ featured_image: ""
 draft: false
 ---
 
-I'm DJing on WXDU 8-9am on Wednesdays. Tune in on 88.7fm or at [wxdu.org](https://wxdu.org/)
+I'm DJing on WXDU 8-9am on Wednesdays. Tune in live at 88.7fm in the Durham area, or online at [wxdu.org](https://wxdu.org/)
 
-[Listen to (almost) everything I've played on WXDU](https://tidal.com/playlist/3f03241f-b1df-4fe2-8600-9b2ecfafd60a)
+[Listen to (almost) everything I've played on WXDU on Tidal here](https://tidal.com/playlist/3f03241f-b1df-4fe2-8600-9b2ecfafd60a)
+
+Or listen to my last four shows below :)
+
+[Wednesday, February 11, 2026 8-9am Tidal Playlist](https://tidal.com/playlist/eb372266-76ca-4bfd-8258-a3b9a3cfe97a)
+
+~ {{< audio src="wxdu-2026-02-11.ogg" >}} ~
+
+Suzanne Vallie - Love Lives Where Rules Die\
+Lucky Lo - Fruits in the Ocean\
+Spinvis - Niet Vandaag\
+Little Mazarn - Crescent Moon on the Gate\
+The Barr Brothers - Red Moth Solar Companion\
+Jane Weaver - Hud A Llefrith\
+sir Was x Casper Clausen - Flyder\
+Rozi Plain - Help\
+Luke Temple - Wounded Brightness\
+Julianna Barwick & Mary Lattimore - Temple Of The Winds\
+frances willow - you would not get it\
+Erie Choir - Artifacts\
+Fog Lake - Catacombs\
+The Carolina Cutups - Dim Lights, Thick Smoke\
+Evelyne / Masao - Le soleil se leve\
+Kayla Painter - Sojourn\
+Sarah Louise - Where the Owl Hums
+
 
 [Wednesday, February 4, 2026 8-9am Tidal Playlist](https://tidal.com/playlist/44dd2c4c-36bc-4d20-b482-32e8daae4c61) ft. [DJ Panzón](https://www.mixcloud.com/sonidopanzon/) ([Adrian Martinez Chavez](https://www.adrianmartinezchavez.com/))
 
@@ -83,10 +108,7 @@ Tiny Ruins - Olympic Girls\
 Ragana, Drowse - In Eternal Woods, Pt. 4\
 Holy Sons - Everything
 
-[Wednesday, December 31, 2025 8-9am Tidal Playlist](https://tidal.com/playlist/c7dc28ef-b04c-4926-a9e5-d8587da924a8)
-
-~ {{< audio src="wxdu-2025-12-31.ogg" >}} ~
-
+[Wednesday, December 31, 2025 8-9am Tidal Playlist](https://tidal.com/playlist/c7dc28ef-b04c-4926-a9e5-d8587da924a8)\
 Loma - Ocotillo\
 Holy Sons - Puritan Themes\
 Buck Meek - Lagrimas\
