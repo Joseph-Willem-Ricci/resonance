@@ -18,6 +18,28 @@ I'm DJing on WXDU 8-9am on Wednesdays. Tune in live at 88.7fm in the Durham area
 
 Or listen to my last four shows below :)
 
+[Wednesday, February 18, 2026 8-9am Tidal Playlist](https://tidal.com/playlist/dbe6139f-e24b-4cc3-b19c-a7c09cc7330f)
+
+~ {{< audio src="wxdu-2026-02-18.ogg" >}} ~
+
+Dry Cleaning - Cruise Ship Designer\
+Adrianne Lenker - From\
+Molina - Golden Brown Sugar\
+Lee Baggett - Yesterday\
+sweet93 - what's true?\
+Yara Asmar - in dandelion fields\
+Suitor - Factory\
+Palm Springs - Your Ashes, My Tree\
+Kate NV - oni (they)\
+Mega Bog - Flower\
+Jan Jelinek - Tendency\
+Palace Winter - Monument Eyes\
+Els Himma - Samba\
+grouper - Pale Interior\
+Hana Stretton - Captains Flat\
+Kaitlyn Aurelia Smith - Let it Fall\
+Ex Iguana - Haley is a Machine
+
 [Wednesday, February 11, 2026 8-9am Tidal Playlist](https://tidal.com/playlist/eb372266-76ca-4bfd-8258-a3b9a3cfe97a)
 
 ~ {{< audio src="wxdu-2026-02-11.ogg" >}} ~
@@ -86,10 +108,7 @@ Weirs - I Want to Die Easy\
 Weirs - Doxology (I)\
 Amaria Hamadalher - Tarhanine
 
-[Wednesday, January 7, 2026 8-9am Tidal Playlist](https://tidal.com/playlist/449ff643-f332-47c0-b0c7-0134ceb84ed1)
-
-~ {{< audio src="wxdu-2026-01-07.ogg" >}} ~
-
+[Wednesday, January 7, 2026 8-9am Tidal Playlist](https://tidal.com/playlist/449ff643-f332-47c0-b0c7-0134ceb84ed1)\
 Chorus Grant - Grass Snake\
 Fine - Losing Tennessee\
 Mike Polizze - It Goes Without Saying\
