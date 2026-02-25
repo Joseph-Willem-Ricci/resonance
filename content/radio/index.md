@@ -18,6 +18,30 @@ I'm DJing on WXDU 8-9am on Wednesdays. Tune in live at 88.7fm in the Durham area
 
 Or listen to my last four shows below :)
 
+[Wednesday, February 25, 2026 8-9am Tidal Playlist](https://tidal.com/playlist/d04f8f65-85af-4062-99dd-bf2edbd7e82a)
+
+~ {{< audio src="wxdu-2026-02-25.ogg" >}} ~
+
+Lightning Bug - Song of the Bell\
+Mali Velasquez - Tore\
+The Dead Tongues - Nothingness and Everything\
+Magic Tuber Stringband - Tribute to the Angels\
+Aksak Maboul - Gyrovagations\
+Eli Moore - The Power Line\
+Asha Wells - California\
+Ora Cogan - Cowgirl\
+MOSKITO - Thula Msindo\
+Peals - Before and After: XI\
+Gia Margaret - lesson\
+Twain - King of Fools\
+José González - Horizons\
+Brìghde Chaimbeul - Bog an Lochan\
+Yuno - We Belong\
+Hailu Mergia & The Walias - Tezeta\
+Puppet Wives - Mort's Grey Cloud\
+Prolapse - A Forever\
+Katy Kirby - Fences
+
 [Wednesday, February 18, 2026 8-9am Tidal Playlist](https://tidal.com/playlist/dbe6139f-e24b-4cc3-b19c-a7c09cc7330f)
 
 ~ {{< audio src="wxdu-2026-02-18.ogg" >}} ~
@@ -62,7 +86,6 @@ Evelyne / Masao - Le soleil se leve\
 Kayla Painter - Sojourn\
 Sarah Louise - Where the Owl Hums
 
-
 [Wednesday, February 4, 2026 8-9am Tidal Playlist](https://tidal.com/playlist/44dd2c4c-36bc-4d20-b482-32e8daae4c61) ft. [DJ Panzón](https://www.mixcloud.com/sonidopanzon/) ([Adrian Martinez Chavez](https://www.adrianmartinezchavez.com/))
 
 ~ {{< audio src="wxdu-2026-02-04.ogg" >}} ~
@@ -85,10 +108,7 @@ Bebel Gilberto - Tanto Tempo\
 Claire Rousay - night one\
 Sally Anne Morgan - Awake
 
-[Wednesday, January 21, 2026 8-9am Tidal Playlist](https://tidal.com/playlist/c3d6a780-cd12-42b9-a1d2-8234143e9d4a)
-
-~ {{< audio src="wxdu-2026-01-21.ogg" >}} ~
-
+[Wednesday, January 21, 2026 8-9am Tidal Playlist](https://tidal.com/playlist/c3d6a780-cd12-42b9-a1d2-8234143e9d4a)\
 Helena Deland - Bright Green Vibrant Gray\
 School of X - 1989\
 Juni Habel - Evergreen In Your Mind\
