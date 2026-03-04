@@ -18,6 +18,29 @@ I'm DJing on WXDU 8-9am on Wednesdays. Tune in live at 88.7fm in the Durham area
 
 Or listen to my last four shows below :)
 
+[Wednesday, March 04, 2026 8-9am Tidal Playlist](https://tidal.com/playlist/d0314d1d-17f3-415a-aed2-fea0267548d4)
+
+~ {{< audio src="wxdu-2026-03-04.ogg" >}} ~
+
+Maria Somerville - Garden\
+Sofia Kourtesis - Sisters\
+Charlotte Cornfield - Gentle Like The Drugs\
+This Is Lorelei - My Friend 2\
+Big Thief - No Reason\
+Hayden Pedigo - The Happiest Times I Ever Ignored\
+Allegra Krieger - Roosevelt Ave\
+Crasher - An Airport With No Windows\
+Hannah Cohen - Summer Sweat\
+Eli Winter - Cracking the Jaw\
+Truth Club - Suffer Debt\
+Barker - Reframing\
+Tujiko Noriko + Aoki Takamasa - Fly 2\
+Niecy Blues - Cascade\
+Hania Rani, Patrick Watson - Dancing with Ghosts\
+Cameron Knowler - Atelier de Stein\
+Ana Roxanne - Camille\
+Eljuri - Cambio
+
 [Wednesday, February 25, 2026 8-9am Tidal Playlist](https://tidal.com/playlist/d04f8f65-85af-4062-99dd-bf2edbd7e82a)
 
 ~ {{< audio src="wxdu-2026-02-25.ogg" >}} ~
@@ -86,10 +109,7 @@ Evelyne / Masao - Le soleil se leve\
 Kayla Painter - Sojourn\
 Sarah Louise - Where the Owl Hums
 
-[Wednesday, February 4, 2026 8-9am Tidal Playlist](https://tidal.com/playlist/44dd2c4c-36bc-4d20-b482-32e8daae4c61) ft. [DJ Panzón](https://www.mixcloud.com/sonidopanzon/) ([Adrian Martinez Chavez](https://www.adrianmartinezchavez.com/))
-
-~ {{< audio src="wxdu-2026-02-04.ogg" >}} ~
-
+[Wednesday, February 4, 2026 8-9am Tidal Playlist](https://tidal.com/playlist/44dd2c4c-36bc-4d20-b482-32e8daae4c61) ft. [DJ Panzón](https://www.mixcloud.com/sonidopanzon/) ([Adrian Martinez Chavez](https://www.adrianmartinezchavez.com/))\
 Efterklang - Uden Ansigt\
 K-LONE - fauna\
 Kill the Buddha - Mr. G.\
