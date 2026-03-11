@@ -18,7 +18,7 @@ I'm DJing on WXDU 8-9am on Wednesdays. Tune in live at 88.7fm in the Durham area
 
 Or listen to my last four shows below :)
 
-[Wednesday, March 04, 2026 8-9am Tidal Playlist](https://tidal.com/playlist/f9a9baa5-78c4-4d43-a065-0e883d97c413)
+[Wednesday, March 11, 2026 8-9am Tidal Playlist](https://tidal.com/playlist/f9a9baa5-78c4-4d43-a065-0e883d97c413)
 
 ~ {{< audio src="wxdu-2026-03-11.ogg" >}} ~
 
