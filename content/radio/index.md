@@ -18,6 +18,29 @@ I'm DJing on WXDU 8-9am on Wednesdays. Tune in live at 88.7fm in the Durham area
 
 Or listen to my last four shows below :)
 
+[Wednesday, March 04, 2026 8-9am Tidal Playlist](https://tidal.com/playlist/f9a9baa5-78c4-4d43-a065-0e883d97c413)
+
+~ {{< audio src="wxdu-2026-03-11.ogg" >}} ~
+
+Tristan Schmidt Trio - With a Song in My Heart\
+Toumani Diabate - Jarabi\
+Natalie Jane Hill - Rose and Pink\
+Kelly Lee Owens - Time To\
+Charles Webster & The South African Connection - From The Hill\
+Altin Gün - Gel Yanima Gel\
+Mohammed Al-Harazi - I'm Afraid For You خايف عليك\
+Oh Stone and Will Younts - Meteor Song\
+A.A. Bondy - Images of Love\
+Life Without Buildings - Philip\
+Asher Gamedze - State (Of The Internation)\
+Barry Walker Jr. - Leaving Lower Big Basin feat. Rob Smith & Jason Willmon\
+Hiss Golden Messenger - The Serpent is Kind (Compared to Man)\
+Marielle V Jakobsons - Without You Inside Time\
+Aldous Harding - Staring At The Henry Moore\
+Gwenno - Keltek\
+Daughter of Swords - Vacation\
+Sharon Van Etten - Tarifa
+
 [Wednesday, March 04, 2026 8-9am Tidal Playlist](https://tidal.com/playlist/d0314d1d-17f3-415a-aed2-fea0267548d4)
 
 ~ {{< audio src="wxdu-2026-03-04.ogg" >}} ~
@@ -87,10 +110,7 @@ Hana Stretton - Captains Flat\
 Kaitlyn Aurelia Smith - Let it Fall\
 Ex Iguana - Haley is a Machine
 
-[Wednesday, February 11, 2026 8-9am Tidal Playlist](https://tidal.com/playlist/eb372266-76ca-4bfd-8258-a3b9a3cfe97a)
-
-~ {{< audio src="wxdu-2026-02-11.ogg" >}} ~
-
+[Wednesday, February 11, 2026 8-9am Tidal Playlist](https://tidal.com/playlist/eb372266-76ca-4bfd-8258-a3b9a3cfe97a)\
 Suzanne Vallie - Love Lives Where Rules Die\
 Lucky Lo - Fruits in the Ocean\
 Spinvis - Niet Vandaag\
