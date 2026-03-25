@@ -18,6 +18,29 @@ I'm DJing on WXDU 8-9am on Wednesdays. Tune in live at 88.7fm in the Durham area
 
 Or listen to my last four shows below :)
 
+[Wednesday, March 25, 2026 8-9am Tidal Playlist](https://tidal.com/playlist/f81c4702-dc3c-43bc-bd1c-9e34704fb051)
+
+~ {{< audio src="wxdu-2026-03-25.ogg" >}} ~
+
+Babehoven - Stand It\
+Brimheim - Literally Everything\
+urika's bedroom - *66\
+Art School Girlfriend - The Peaks\
+The Messthetics & James Brandon Lewis - 30 Years of Knowing\
+Supersport!, Salóme Katrín - En sama hvað...\
+Hjaltalín - Don't Go Too Far\
+IRAH - Into Dimensions\
+Yndling - It's Almost Like You're Here\
+Jessica Pratt - Glances\
+Bad Posture Club - Whippoorwill\
+Entrez Vous - Oh, Raquel!\
+Nina Garbus - Angel Three (Seaside, Sub Rosa)\
+Fabiano Do Nascimento & Sam Gendel - Poeira\
+Eiko Ishibashi - Coma\
+The Soft Pink Truth - And By and By A Cloud Takes All Away\
+Glyders - Moon Eyes\
+Misty Lane - Energy (7" Mix)
+
 [Wednesday, March 11, 2026 8-9am Tidal Playlist](https://tidal.com/playlist/f9a9baa5-78c4-4d43-a065-0e883d97c413)
 
 ~ {{< audio src="wxdu-2026-03-11.ogg" >}} ~
@@ -88,10 +111,7 @@ Puppet Wives - Mort's Grey Cloud\
 Prolapse - A Forever\
 Katy Kirby - Fences
 
-[Wednesday, February 18, 2026 8-9am Tidal Playlist](https://tidal.com/playlist/dbe6139f-e24b-4cc3-b19c-a7c09cc7330f)
-
-~ {{< audio src="wxdu-2026-02-18.ogg" >}} ~
-
+[Wednesday, February 18, 2026 8-9am Tidal Playlist](https://tidal.com/playlist/dbe6139f-e24b-4cc3-b19c-a7c09cc7330f)\
 Dry Cleaning - Cruise Ship Designer\
 Adrianne Lenker - From\
 Molina - Golden Brown Sugar\
