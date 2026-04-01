@@ -18,6 +18,29 @@ I'm DJing on WXDU 8-9am on Wednesdays. Tune in live at 88.7fm in the Durham area
 
 Or listen to my last four shows below :)
 
+[Wednesday, April 01, 2026 8-9am Tidal Playlist](https://tidal.com/playlist/3f4b11c7-c173-485c-82b6-13cebbe00cb0)
+
+~ {{< audio src="wxdu-2026-04-01.ogg" >}} ~
+
+Les Filles de Illighadad - Achibaba\
+Will Stratton, The Weather Station - Gray Lodge Wisdom\
+Arthur Russell - Close My Eyes\
+Midori Hirano - Oto, Kioku\
+Sylvan Esso - Your Reality\
+Florist - This Was A Gift\
+Flying Lotus - BIG MAMA\
+Alabaster Deplume - A Gentle Acaba (Vento Em Rosa)\
+Beach House - Sunset\
+Levitation Orchestra - Breathe It In\
+Daniel Avery, Allesandro Cortini - Illusion Of Time\
+Jimi Hendrix - Little Wing (Live at the Royal Albert Hall)\
+Sun Kil Moon - Carry Me Ohio\
+Nick Hakim - Cuffed\
+Woo - Dobbins Lost His Coconuts - Revisited\
+Ruth Parker - After the Storm\
+Bézier - Inner Grace\
+Itasca - Imitation of War
+
 [Wednesday, March 25, 2026 8-9am Tidal Playlist](https://tidal.com/playlist/f81c4702-dc3c-43bc-bd1c-9e34704fb051)
 
 ~ {{< audio src="wxdu-2026-03-25.ogg" >}} ~
@@ -87,10 +110,7 @@ Cameron Knowler - Atelier de Stein\
 Ana Roxanne - Camille\
 Eljuri - Cambio
 
-[Wednesday, February 25, 2026 8-9am Tidal Playlist](https://tidal.com/playlist/d04f8f65-85af-4062-99dd-bf2edbd7e82a)
-
-~ {{< audio src="wxdu-2026-02-25.ogg" >}} ~
-
+[Wednesday, February 25, 2026 8-9am Tidal Playlist](https://tidal.com/playlist/d04f8f65-85af-4062-99dd-bf2edbd7e82a)\
 Lightning Bug - Song of the Bell\
 Mali Velasquez - Tore\
 The Dead Tongues - Nothingness and Everything\
