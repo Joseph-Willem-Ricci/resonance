@@ -27,7 +27,7 @@ caption="The WXDU Studio">}}
 ~ {{< audio src="wxdu-2026-04-08.ogg" >}} ~
 
 Meg Baird - Unnamed Drives\
-Sister Irene O'Connor\
+Sister Irene O'Connor - Nature Is A Song\
 Crumb - AMAMA\
 Paperclip Minimiser - II B3\
 Colle - Silent But For Joy\
