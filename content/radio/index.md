@@ -18,7 +18,32 @@ I'm DJing on WXDU 8-9am on Wednesdays. Tune in live at 88.7fm in the Durham area
 
 Or listen to my last four shows below :)
 
-[Wednesday, April 01, 2026 8-9am Tidal Playlist](https://tidal.com/playlist/3f4b11c7-c173-485c-82b6-13cebbe00cb0)
+[Wednesday, April 8, 2026 8-9am Tidal Playlist](https://tidal.com/playlist/e3fc5f8f-aa3a-4eaf-a2d3-fac88a1f661d)
+
+~ {{< audio src="wxdu-2026-04-08.ogg" >}} ~
+
+Meg Baird - Unnamed Drives\
+Sister Irene O'Connor\
+Crumb - AMAMA\
+Paperclip Minimiser - II B3\
+Colle - Silent But For Joy\
+Raisa K - Affectionately\
+james K - Peel\
+Tara Clerkin Trio - World in Delay\
+Anne Clark - Poem For A Nuclear Romance\
+Annsofie Salomon - Soft Dreams\
+Izzy Johnson - Letting Go\
+Otracami - Perfect Reach\
+The Onlies - Cumberland Gap\
+Sluice - Zillow\
+Tanukichan - Hunned Bandz\
+Tinariwen - Emajer\
+Larua Marling - Lullaby (Instrumental)\
+K. Yoshimatsu - 1846\
+my bloody valentine - Only Shallow\
+Omasta - Cornerstone
+
+[Wednesday, April 1, 2026 8-9am Tidal Playlist](https://tidal.com/playlist/3f4b11c7-c173-485c-82b6-13cebbe00cb0)
 
 ~ {{< audio src="wxdu-2026-04-01.ogg" >}} ~
 
@@ -87,10 +112,7 @@ Gwenno - Keltek\
 Daughter of Swords - Vacation\
 Sharon Van Etten - Tarifa
 
-[Wednesday, March 04, 2026 8-9am Tidal Playlist](https://tidal.com/playlist/d0314d1d-17f3-415a-aed2-fea0267548d4)
-
-~ {{< audio src="wxdu-2026-03-04.ogg" >}} ~
-
+[Wednesday, March 04, 2026 8-9am Tidal Playlist](https://tidal.com/playlist/d0314d1d-17f3-415a-aed2-fea0267548d4)\
 Maria Somerville - Garden\
 Sofia Kourtesis - Sisters\
 Charlotte Cornfield - Gentle Like The Drugs\
