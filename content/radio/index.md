@@ -22,6 +22,22 @@ Or listen to my last four shows below :)
 caption="The WXDU Studio">}}
 {{</figure>}}
 
+[Wednesday, April 15, 2026 8-9am Tidal Playlist](https://tidal.com/playlist/6ff7745f-62c0-4987-bc06-707b1d33e462)
+
+~ {{< audio src="wxdu-2026-04-15.ogg" >}} ~
+
+Verity Den - I / II / ETYWD / III / IV\
+Mount Eerie - Boat\
+Sibyl - The Arrow and the Song\
+Brìghde Chaimbeul - Sguabag/The Sweeper\
+Bob Dylan - When the Ship Comes In\
+Neil Young - Sugar Mountain (Live at Canterbury House 1968)\
+Group Rhoda - Aeolian Crossing\
+The Sugarcubes - Planet\
+Amanaz - I Am Very Far\
+Chris Corsano & Bill Orcutt - The world without me
+Sects - Quarter Bells in Country Sleep
+
 [Wednesday, April 8, 2026 8-9am Tidal Playlist](https://tidal.com/playlist/e3fc5f8f-aa3a-4eaf-a2d3-fac88a1f661d)
 
 ~ {{< audio src="wxdu-2026-04-08.ogg" >}} ~
@@ -93,10 +109,7 @@ The Soft Pink Truth - And By and By A Cloud Takes All Away\
 Glyders - Moon Eyes\
 Misty Lane - Energy (7" Mix)
 
-[Wednesday, March 11, 2026 8-9am Tidal Playlist](https://tidal.com/playlist/f9a9baa5-78c4-4d43-a065-0e883d97c413)
-
-~ {{< audio src="wxdu-2026-03-11.ogg" >}} ~
-
+[Wednesday, March 11, 2026 8-9am Tidal Playlist](https://tidal.com/playlist/f9a9baa5-78c4-4d43-a065-0e883d97c413)\
 Tristan Schmidt Trio - With a Song in My Heart\
 Toumani Diabate - Jarabi\
 Natalie Jane Hill - Rose and Pink\
