@@ -35,7 +35,7 @@ Neil Young - Sugar Mountain (Live at Canterbury House 1968)\
 Group Rhoda - Aeolian Crossing\
 The Sugarcubes - Planet\
 Amanaz - I Am Very Far\
-Chris Corsano & Bill Orcutt - The world without me
+Chris Corsano & Bill Orcutt - The world without me\
 Sects - Quarter Bells in Country Sleep
 
 [Wednesday, April 8, 2026 8-9am Tidal Playlist](https://tidal.com/playlist/e3fc5f8f-aa3a-4eaf-a2d3-fac88a1f661d)
