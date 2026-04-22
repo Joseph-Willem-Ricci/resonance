@@ -22,6 +22,29 @@ Or listen to my last four shows below :)
 caption="The WXDU Studio">}}
 {{</figure>}}
 
+[Wednesday, April 22, 2026 8-9am Tidal Playlist](https://tidal.com/playlist/9fc483a5-24b2-4a33-a36f-bb1cb76804d2)
+
+~ {{< audio src="wxdu-2026-04-22.ogg" >}} ~
+
+P.E.A. Shangaan Guitar Player - Machanjawa (Mozambique)\
+M.S. Razafindrazaka and group - Ampy Izay Ny Andro Lasa (Madagascar)\
+Itokazu Kame with Maekawa Chōshō and Kadekaru Rinshō - Ichiman Angwaa (Okinawa, Japan)\
+Lupe Posada and Cascada de Chicharrón - Hacia las Cumbres (Mexico)\
+Guria-Adjara Choir (led by Artem Erkomaishvili) - Orira (Georgia)\
+Giorgio Gaber - L'Impotenza\
+Yasmin Williams - Juvenescence\
+Sluice - Centurion\
+Life of Lola - Sunflower\
+Juliana Hatfield - Simplicity is Beautiful\
+Floating Points - Anasickmodular\
+Suzanne Vallie - River of Angels Wings\
+Crumb - Ice Melt\
+Maxime Denuc - Agoraphobia\
+Karima Walker - Hands in Our Names\
+Kara-lis Coverdale - A 480\
+James Blake - Obsession\
+Setting - Zoetropics
+
 [Wednesday, April 15, 2026 8-9am Tidal Playlist](https://tidal.com/playlist/6ff7745f-62c0-4987-bc06-707b1d33e462)
 
 ~ {{< audio src="wxdu-2026-04-15.ogg" >}} ~
@@ -86,10 +109,7 @@ Ruth Parker - After the Storm\
 Bézier - Inner Grace\
 Itasca - Imitation of War
 
-[Wednesday, March 25, 2026 8-9am Tidal Playlist](https://tidal.com/playlist/f81c4702-dc3c-43bc-bd1c-9e34704fb051)
-
-~ {{< audio src="wxdu-2026-03-25.ogg" >}} ~
-
+[Wednesday, March 25, 2026 8-9am Tidal Playlist](https://tidal.com/playlist/f81c4702-dc3c-43bc-bd1c-9e34704fb051)\
 Babehoven - Stand It\
 Brimheim - Literally Everything\
 urika's bedroom - *66\
