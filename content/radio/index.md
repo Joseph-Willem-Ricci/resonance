@@ -22,6 +22,28 @@ Or listen to my last four shows below :)
 caption="The WXDU Studio">}}
 {{</figure>}}
 
+[Wednesday, April 29, 2026 8-9am Tidal Playlist](https://tidal.com/playlist/61a145f0-c26d-4d53-bcf1-30aa57d46917)
+
+~ {{< audio src="wxdu-2026-04-29.ogg" >}} ~
+
+Efterklang - I dine øjne\
+Snuggle - Sun Tan\
+Communions - Hymn\
+Lucky Lo - Supercarry\
+Loula Yorke, Charlotte Jolly - the carrier bag theory of fiction\
+Madala Kunene & Sibusile Xaba - Uhebe\
+Little Wings - Brutal North Pillow\
+Prefuse 73 - Perverted Undertones\
+Jurassic 5 - Freedom\
+Weyes Blood - In Holy Flux\
+hemlock - Sky Baby\
+Bombino - Itisahid\
+Slowdive - skin in the game\
+Moses Sumney - Virile\
+Pygmy Lush - Asphalt\
+Klara Lewis - Clearing\
+Memorials - Holy Invisible
+
 [Wednesday, April 22, 2026 8-9am Tidal Playlist](https://tidal.com/playlist/9fc483a5-24b2-4a33-a36f-bb1cb76804d2)
 
 ~ {{< audio src="wxdu-2026-04-22.ogg" >}} ~
@@ -86,10 +108,7 @@ K. Yoshimatsu - 1846\
 my bloody valentine - Only Shallow\
 Omasta - Cornerstone
 
-[Wednesday, April 1, 2026 8-9am Tidal Playlist](https://tidal.com/playlist/3f4b11c7-c173-485c-82b6-13cebbe00cb0)
-
-~ {{< audio src="wxdu-2026-04-01.ogg" >}} ~
-
+[Wednesday, April 1, 2026 8-9am Tidal Playlist](https://tidal.com/playlist/3f4b11c7-c173-485c-82b6-13cebbe00cb0)\
 Les Filles de Illighadad - Achibaba\
 Will Stratton, The Weather Station - Gray Lodge Wisdom\
 Arthur Russell - Close My Eyes\
