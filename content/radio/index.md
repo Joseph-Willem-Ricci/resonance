@@ -22,6 +22,28 @@ Or listen to my last four shows below :)
 caption="The WXDU Studio">}}
 {{</figure>}}
 
+[Wednesday, May 6, 2026 8-9am Tidal Playlist](https://tidal.com/playlist/699ee6a1-3b7d-4e93-b449-08f953494afe)
+
+~ {{< audio src="wxdu-2026-05-06.ogg" >}} ~
+
+Andrew Weil, MD - Self-Love\
+Gintė Preisaitė - Deepen\
+Eli Moore - Haunted\
+James Taylor - Copperline\
+Oren Ambarchi - Hubris, Pt. 2\
+Avalon Emerson - The Stone\
+Rosali - My Kind\
+Bonnie "Prince" Billy - Hey Little\
+Gun Outfit - Landscape Painter\
+Object Hours - Haunted Forest Near Me\
+Galore - Zinger\
+The Aislers Set - Friends Of The Heroes\
+Toechter - Me she said\
+Panda Bear - Praise\
+Laura Groves - Good Intention\
+Carla dal Forno - Clusters\
+Andrew Weil, MD - Close
+
 [Wednesday, April 29, 2026 8-9am Tidal Playlist](https://tidal.com/playlist/61a145f0-c26d-4d53-bcf1-30aa57d46917)
 
 ~ {{< audio src="wxdu-2026-04-29.ogg" >}} ~
@@ -83,10 +105,7 @@ Amanaz - I Am Very Far\
 Chris Corsano & Bill Orcutt - The world without me\
 Sects - Quarter Bells in Country Sleep
 
-[Wednesday, April 8, 2026 8-9am Tidal Playlist](https://tidal.com/playlist/e3fc5f8f-aa3a-4eaf-a2d3-fac88a1f661d)
-
-~ {{< audio src="wxdu-2026-04-08.ogg" >}} ~
-
+[Wednesday, April 8, 2026 8-9am Tidal Playlist](https://tidal.com/playlist/e3fc5f8f-aa3a-4eaf-a2d3-fac88a1f661d)\
 Meg Baird - Unnamed Drives\
 Sister Irene O'Connor - Nature Is A Song\
 Crumb - AMAMA\
