@@ -22,6 +22,29 @@ Or listen to my last four shows below :)
 caption="The WXDU Studio">}}
 {{</figure>}}
 
+[Wednesday, May 13, 2026 8-9am Tidal Playlist](https://tidal.com/playlist/4b6506c0-f9b2-46c6-a670-c804a1855a40)
+
+~ {{< audio src="wxdu-2026-05-13.ogg" >}} ~
+
+Carla dal Forno - Staying in\
+J.W. Ricci - Through a Frame / Pollen Drop\
+Adrianne Lenker - ingydar\
+Helena Deland - Bright Green Vibrany Gray\
+Flore Laurentienne - Fleuve VIII\
+Maria Somerville - Stonefly\
+Les Filles de Illighadad - Inigradan\
+Fine - Days Incomplete\
+Hayden Pedigo - Elsewhere\
+José González - Fold\
+Mammal Hands - Fallow Tide\
+J.W. Ricci - Pollen Drop\
+Will Stratton - Skating on the Glass\
+LAKE - Bucolic Gone\
+New Issue - Slide\
+Mount Eerie - Planets\
+Joe Fujinoki - Still\
+Big Thief - Red Moon
+
 [Wednesday, May 6, 2026 8-9am Tidal Playlist](https://tidal.com/playlist/699ee6a1-3b7d-4e93-b449-08f953494afe)
 
 ~ {{< audio src="wxdu-2026-05-06.ogg" >}} ~
@@ -89,10 +112,7 @@ Kara-lis Coverdale - A 480\
 James Blake - Obsession\
 Setting - Zoetropics
 
-[Wednesday, April 15, 2026 8-9am Tidal Playlist](https://tidal.com/playlist/6ff7745f-62c0-4987-bc06-707b1d33e462)
-
-~ {{< audio src="wxdu-2026-04-15.ogg" >}} ~
-
+[Wednesday, April 15, 2026 8-9am Tidal Playlist](https://tidal.com/playlist/6ff7745f-62c0-4987-bc06-707b1d33e462)\
 Verity Den - I / II / ETYWD / III / IV\
 Mount Eerie - Boat\
 Sibyl - The Arrow and the Song\
