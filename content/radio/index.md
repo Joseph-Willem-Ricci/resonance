@@ -27,7 +27,7 @@ caption="The WXDU Studio">}}
 ~ {{< audio src="wxdu-2026-05-13.ogg" >}} ~
 
 Carla dal Forno - Staying in\
-J.W. Ricci - Through a Frame / Pollen Drop\
+J.W. Ricci - Through a Frame\
 Adrianne Lenker - ingydar\
 Helena Deland - Bright Green Vibrany Gray\
 Flore Laurentienne - Fleuve VIII\
