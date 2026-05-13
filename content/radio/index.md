@@ -29,7 +29,7 @@ caption="The WXDU Studio">}}
 Carla dal Forno - Staying in\
 J.W. Ricci - Through a Frame\
 Adrianne Lenker - ingydar\
-Helena Deland - Bright Green Vibrany Gray\
+Helena Deland - Bright Green Vibrant Gray\
 Flore Laurentienne - Fleuve VIII\
 Maria Somerville - Stonefly\
 Les Filles de Illighadad - Inigradan\
