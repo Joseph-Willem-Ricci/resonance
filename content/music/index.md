@@ -6,8 +6,7 @@ language: "en"
 authors: ["Joseph Willem Ricci"]
 categories: ["Music"]
 tags: ["Music"]
-type: "single"
-layout: "single"
+layout: "single_no_related_posts"
 featured_image: ""
 draft: false
 ---
