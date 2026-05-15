@@ -7,7 +7,7 @@ authors: ["Joseph Willem Ricci"]
 categories: ["About"]
 tags: ["About"]
 type: "single"
-layout: "single"
+layout: "single_no_related_posts"
 featured_image: "author-and-daffodils-by-morgan-creek.png"
 draft: false
 ---
