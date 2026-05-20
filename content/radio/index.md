@@ -21,6 +21,29 @@ Or listen to my last four shows below :)
 caption="The WXDU Studio">}}
 {{</figure>}}
 
+[Wednesday, May 20, 2026 8-9am Tidal Playlist](https://tidal.com/playlist/6d84ddae-ee3d-4e14-a4eb-f13c3d5deb0f)
+
+~ {{< audio src="wxdu-2026-05-20.ogg" >}} ~
+
+Oklou - want to wanna come back\
+Sam Amidon - Kedron\
+Jura, ML Buch, Clarissa Connelly, Ydegirl, Helene Norup Due - You Make a Fire, You Make a Camp\
+Tacoma Park - Coral\
+aya, Iceboy Violet - Emley lights us moor\
+Yves Tumor - Hasdallen Lights\
+Kim Gordon - GIRL WITH A LOOK\
+Caterina Barbieri, Bendik Giske - Intuition, Nimbus\
+Terry Allen - Oui (a French Song)\
+Wendy Eisenberg - Take A Number\
+Indigo Sparke - Baby\
+Kali Malone - No Sun To Burn (for Brass)\
+Teitur, Aarhus Jazz Orchestra - Forgot My Sunglasses II\
+Deerhoof - Flower\
+Hayden Thorpe - Love Crimes\
+Himba Hymn - Don't Cry (Your Father & Grandfather Are Good)\
+Lia Kohl - sit on the floor and wait for storms\
+Seefeel - Ever No Way
+
 [Wednesday, May 13, 2026 8-9am Tidal Playlist](https://tidal.com/playlist/4b6506c0-f9b2-46c6-a670-c804a1855a40)
 
 ~ {{< audio src="wxdu-2026-05-13.ogg" >}} ~
@@ -88,10 +111,7 @@ Pygmy Lush - Asphalt\
 Klara Lewis - Clearing\
 Memorials - Holy Invisible
 
-[Wednesday, April 22, 2026 8-9am Tidal Playlist](https://tidal.com/playlist/9fc483a5-24b2-4a33-a36f-bb1cb76804d2)
-
-~ {{< audio src="wxdu-2026-04-22.ogg" >}} ~
-
+[Wednesday, April 22, 2026 8-9am Tidal Playlist](https://tidal.com/playlist/9fc483a5-24b2-4a33-a36f-bb1cb76804d2)\
 P.E.A. Shangaan Guitar Player - Machanjawa (Mozambique)\
 M.S. Razafindrazaka and group - Ampy Izay Ny Andro Lasa (Madagascar)\
 Itokazu Kame with Maekawa Chōshō and Kadekaru Rinshō - Ichiman Angwaa (Okinawa, Japan)\
