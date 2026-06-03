@@ -21,6 +21,25 @@ Or listen to my last four shows below :)
 caption="The WXDU Studio">}}
 {{</figure>}}
 
+[Wednesday, June 3, 2026 8-9am Tidal Playlist](https://tidal.com/playlist/3319049d-6a04-48f3-98f0-dc2b99277905)
+
+Setting - Ribbon of Moss\
+Marisa Anderson - Zar\
+Loma - Thorn\
+Cancer House - Flowers Over There\
+Lust for Youth - Imola\
+Anna Butterss - Reasonable Death\
+Lucrecia Dalt - No tiempo\
+Minor Moon - Cracking Glass\
+Chris Staples - Relatively Permanent\
+Fleet Foxes - The Cascades\
+Okkervil River - Wake and Be Fine\
+Teerath Majumder - Island\
+Ben Alleman - How to Stay Sane in February\
+Age of Peace - Rainy Days\
+Gregory Uhlmann - Mint Chip\
+Alice Phoebe Lou - Lately
+
 [Wednesday, May 20, 2026 8-9am Tidal Playlist](https://tidal.com/playlist/6d84ddae-ee3d-4e14-a4eb-f13c3d5deb0f)
 
 ~ {{< audio src="wxdu-2026-05-20.ogg" >}} ~
