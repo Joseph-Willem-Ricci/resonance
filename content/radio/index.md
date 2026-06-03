@@ -23,6 +23,8 @@ caption="The WXDU Studio">}}
 
 [Wednesday, June 3, 2026 8-9am Tidal Playlist](https://tidal.com/playlist/3319049d-6a04-48f3-98f0-dc2b99277905)
 
+~ {{< audio src="wxdu-2026-06-03.ogg" >}} ~
+
 Setting - Ribbon of Moss\
 Marisa Anderson - Zar\
 Loma - Thorn\
@@ -108,10 +110,7 @@ Laura Groves - Good Intention\
 Carla dal Forno - Clusters\
 Andrew Weil, MD - Close
 
-[Wednesday, April 29, 2026 8-9am Tidal Playlist](https://tidal.com/playlist/61a145f0-c26d-4d53-bcf1-30aa57d46917)
-
-~ {{< audio src="wxdu-2026-04-29.ogg" >}} ~
-
+[Wednesday, April 29, 2026 8-9am Tidal Playlist](https://tidal.com/playlist/61a145f0-c26d-4d53-bcf1-30aa57d46917)\
 Efterklang - I dine øjne\
 Snuggle - Sun Tan\
 Communions - Hymn\
