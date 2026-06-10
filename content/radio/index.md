@@ -21,6 +21,25 @@ Or listen to my last four shows below :)
 caption="The WXDU Studio">}}
 {{</figure>}}
 
+[Wednesday, June 10, 2026 8-9am Tidal Playlist](https://tidal.com/playlist/73eb68e0-f866-4cdd-a0f0-49421e82ff86)
+
+~ {{< audio src="wxdu-2026-06-10.ogg" >}} ~
+
+Gintė Preisaitė - Aéroport\
+Aldous Harding - Coats\
+Hannah Lew - Replica\
+Jonathan Wilson - Loving You\
+Zoh Amba - Champa Flower\
+Ali Farka Touré - Bakoye\
+sir Was - No Giving Up\
+Portico Quartet / Hania Rani - Nest (Portico Quartet Remix)\
+Portico Quartet / Hania Rani - With, Beside, Against (Hania Rani Remix)\
+Aaron Shaw - Soul Journey\
+Little Chair - Summer Wow\
+Bedouine - Dusty Eyes\
+Magic Tuber Stringband - Dog-Headed Man\
+Sunn O))) - Does Anyone Hear Like Venom?
+
 [Wednesday, June 3, 2026 8-9am Tidal Playlist](https://tidal.com/playlist/3319049d-6a04-48f3-98f0-dc2b99277905)
 
 ~ {{< audio src="wxdu-2026-06-03.ogg" >}} ~
@@ -88,10 +107,7 @@ Mount Eerie - Planets\
 Joe Fujinoki - Still\
 Big Thief - Red Moon
 
-[Wednesday, May 6, 2026 8-9am Tidal Playlist](https://tidal.com/playlist/699ee6a1-3b7d-4e93-b449-08f953494afe)
-
-~ {{< audio src="wxdu-2026-05-06.ogg" >}} ~
-
+[Wednesday, May 6, 2026 8-9am Tidal Playlist](https://tidal.com/playlist/699ee6a1-3b7d-4e93-b449-08f953494afe)\
 Andrew Weil, MD - Self-Love\
 Gintė Preisaitė - Deepen\
 Eli Moore - Haunted\
