@@ -21,6 +21,31 @@ Or listen to my last four shows below :)
 caption="The WXDU Studio">}}
 {{</figure>}}
 
+[Wednesday, June 10, 2026 8-9am Tidal Playlist](https://tidal.com/playlist/397cd8a6-7c3b-4fa2-8361-61892659e4b9)
+
+~ {{< audio src="wxdu-2026-06-17.ogg" >}} ~
+
+Blood Orange - Thinking Clean\
+Johnny Coley - Hydrangea\
+Jack Rose - Song For The Owl\
+White Fence - Only Man Alive\
+Melody's Echo Chamber - Ocean Road\
+Visible Cloaks - Swirl\
+Karsh Kale - Heroes\
+Hour - Hallmark\
+The Reds, Pinks & Purples - Don't Come Home Too Soon\
+more eaze - distance\
+Boards of Canada - Naraka\
+Gamelan Batel - Tabuh Penyuwud\
+Ed Young & Hobart Smith - Joe Turner\
+SAULT - Envious\
+Scivic Rivers - Golden Age of Technique\
+Céu - Cremosa\
+Tops - Stars Come After You\
+Fust - Genevieve\
+Wilder Maker - Strange Meeting with Owls
+
+
 [Wednesday, June 10, 2026 8-9am Tidal Playlist](https://tidal.com/playlist/73eb68e0-f866-4cdd-a0f0-49421e82ff86)
 
 ~ {{< audio src="wxdu-2026-06-10.ogg" >}} ~
@@ -84,10 +109,7 @@ Himba Hymn - Don't Cry (Your Father & Grandfather Are Good)\
 Lia Kohl - sit on the floor and wait for storms\
 Seefeel - Ever No Way
 
-[Wednesday, May 13, 2026 8-9am Tidal Playlist](https://tidal.com/playlist/4b6506c0-f9b2-46c6-a670-c804a1855a40)
-
-~ {{< audio src="wxdu-2026-05-13.ogg" >}} ~
-
+[Wednesday, May 13, 2026 8-9am Tidal Playlist](https://tidal.com/playlist/4b6506c0-f9b2-46c6-a670-c804a1855a40)\
 Carla dal Forno - Staying in\
 J.W. Ricci - Through a Frame\
 Adrianne Lenker - ingydar\
