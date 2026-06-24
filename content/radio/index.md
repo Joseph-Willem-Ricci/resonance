@@ -21,7 +21,27 @@ Or listen to my last four shows below :)
 caption="The WXDU Studio">}}
 {{</figure>}}
 
-[Wednesday, June 10, 2026 8-9am Tidal Playlist](https://tidal.com/playlist/397cd8a6-7c3b-4fa2-8361-61892659e4b9)
+[Wednesday, June 24, 2026 8-9am Tidal Playlist](https://tidal.com/playlist/92a8c975-7c96-41f5-b70b-7dea86242d0c)
+
+~ {{< audio src="wxdu-2026-06-24.ogg" >}} ~
+
+Lee "Scratch" Perry & Mouse on Mars - Rockcurry\
+Sotomayor - Me Dejo Llevar\
+Skúli Sverrisson & Bill Frisell - Instants\
+Dirty Projectors, Björk - On and Ever Onward\
+Ólöf Arnalds - German Fields\
+Supersport!, Salóme Katrín - En sama hvað...\
+Ólafur Arnalds - ekki hugsa\
+aja monet - i know that i don't know\
+Leenalchi - Bird\
+Emilíana Torrini - Black Water\
+Sigurline Bjarnarson and Christine Gudmundsen - Ólafur Reið Með Björgum Fram / Olafur Rode Beneath The Cliffs\
+Múm - I'm 9 Today\
+Sigur Rós - Untitled #1\
+Walker Yancey - jé bu\
+Bill Nace - One for Susan Alcorn
+
+[Wednesday, June 17, 2026 8-9am Tidal Playlist](https://tidal.com/playlist/397cd8a6-7c3b-4fa2-8361-61892659e4b9)
 
 ~ {{< audio src="wxdu-2026-06-17.ogg" >}} ~
 
@@ -86,10 +106,7 @@ Age of Peace - Rainy Days\
 Gregory Uhlmann - Mint Chip\
 Alice Phoebe Lou - Lately
 
-[Wednesday, May 20, 2026 8-9am Tidal Playlist](https://tidal.com/playlist/6d84ddae-ee3d-4e14-a4eb-f13c3d5deb0f)
-
-~ {{< audio src="wxdu-2026-05-20.ogg" >}} ~
-
+[Wednesday, May 20, 2026 8-9am Tidal Playlist](https://tidal.com/playlist/6d84ddae-ee3d-4e14-a4eb-f13c3d5deb0f)\
 Oklou - want to wanna come back\
 Sam Amidon - Kedron\
 Jura, ML Buch, Clarissa Connelly, Ydegirl, Helene Norup Due - You Make a Fire, You Make a Camp\
