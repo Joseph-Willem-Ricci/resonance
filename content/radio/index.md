@@ -21,6 +21,27 @@ Or listen to my last four shows below :)
 caption="The WXDU Studio">}}
 {{</figure>}}
 
+[Wednesday, July 1, 2026 8-9am Tidal Playlist](https://tidal.com/playlist/f9373c7e-ccf2-41f5-9cd5-d2f5f841af3f)
+
+~ {{< audio src="wxdu-2026-07-01.ogg" >}} ~
+
+Chanel Beads - Drums Only\
+Charlie Paso - Bonus 1\
+Rayboys - Strange Love\
+Jana Horn - Optimism\
+Cocanha - Remenanuèch\
+Sword II - Violence of the Star\
+Mary Halvorson & Ambrose Akinmusire - Soundcheck\
+The Funkees - Acid Rock\
+Mahmoud Ahmed - Hoy Na-Na Jegnaw Na\
+Kasai Allstars - Baba Bende\
+Vusi Mahlasela - Molaetsa keo\
+Antibalas - Dirty Money\
+The Neville Brothers - My Blood\
+Mina Mills - Negative Attitude\
+Burial - New Love\
+Jenny Hval - Heiner Muller
+
 [Wednesday, June 24, 2026 8-9am Tidal Playlist](https://tidal.com/playlist/92a8c975-7c96-41f5-b70b-7dea86242d0c)
 
 ~ {{< audio src="wxdu-2026-06-24.ogg" >}} ~
