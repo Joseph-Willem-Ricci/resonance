@@ -107,9 +107,6 @@ Magic Tuber Stringband - Dog-Headed Man\
 Sunn O))) - Does Anyone Hear Like Venom?
 
 [Wednesday, June 3, 2026 8-9am Tidal Playlist](https://tidal.com/playlist/3319049d-6a04-48f3-98f0-dc2b99277905)
-
-~ {{< audio src="wxdu-2026-06-03.ogg" >}} ~
-
 Setting - Ribbon of Moss\
 Marisa Anderson - Zar\
 Loma - Thorn\
