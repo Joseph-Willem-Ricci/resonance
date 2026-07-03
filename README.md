@@ -10,55 +10,11 @@ brew install hugo
 pip install git+https://www.github.com/hbldh/hitherdither
 ```
 
-## Dithering Images For Local Development
+## Local Development
 ```
 python utils/dither_images.py --directory content/
 hugo server --config config/config.toml
 ```
-
-## Organizing content
-
-Content is organized as [Hugo Page Bundles](https://gohugo.io/content-management/page-bundles/).
-
-That means that each post is a directory which contains: 
-
-* the article (`index.md`)
-* the translations (`index.lang.md`)
-* the images in the article (`images/`)
-* dithered versions of the images (`images/dithers/`)
-* comments in various languages (`comments.en.md`) 
-
-Example:
-
-```
-how-to-build-a-low-tech-internet/
-├── comments.en.md
-├── images
-│   ├── air-jaldi-epostman.png
-│   ├── dithers
-│   │   ├── air-jaldi-epostman_dithered.png
-│   │   ├── freifunk-wifi-node_dithered.png
-│   │   ├── node-air-jaldi-network_dithered.png
-│   │   ├── node-spanish-guifi-network_dithered.png
-│   │   ├── node-tegola_dithered.png
-│   │   ├── sneakernet-on-rails_dithered.png
-│   │   ├── tegola-project-low-tech-internet_dithered.png
-│   │   ├── wifi-link_dithered.png
-│   │   └── wireless-links-spanish-guifi-network_dithered.png
-│   ├── freifunk-wifi-node.jpg
-│   ├── node-air-jaldi-network.png
-│   ├── node-spanish-guifi-network.png
-│   ├── node-tegola.jpg
-│   ├── sneakernet-on-rails.jpg
-│   ├── tegola-project-low-tech-internet.png
-│   ├── wifi-link.jpg
-│   └── wireless-links-spanish-guifi-network.jpg
-├── index.de.md
-├── index.en.md
-├── index.es.md
-└── index.fr.md
-```
-At least one article is required: `index.md` or `index.lang.md`.
 
 ## Formatting articles
 
@@ -99,7 +55,6 @@ To link to other articles on the solar website, we use a hugo specific shortcode
 [Donate]({{< ref "/donate" >}})
 [here]({{< ref "/posts/power-water-networks/" >}})
 ```
-
 
 # Additional utilities
 
