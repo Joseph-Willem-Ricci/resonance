@@ -10,7 +10,7 @@ brew install hugo
 pip install git+https://www.github.com/hbldh/hitherdither
 ```
 
-## Local Development
+## Dithering Images For Local Development
 ```
 python utils/dither_images.py --directory content/
 hugo server --config config/config.toml
