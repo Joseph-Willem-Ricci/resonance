@@ -49,6 +49,7 @@ enableInlineShortcodes = true
 
 [params]
 	author = "Joseph Willem Ricci"
+  author_email = "joe@resonance.tools"
   description = "tools of resonance"
   code = "code"
   music = "music"
