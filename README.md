@@ -16,6 +16,22 @@ python utils/dither_images.py --directory content/
 hugo server --config config/config.toml
 ```
 
+## Periodic Ogg File Bloating
+Since old radio show ogg files are tracked in git history, periodically follow these steps to cut down the repo size:
+
+```
+brew install git-filter-repo
+git ls-files 'content/radio/*.ogg' | sort > /tmp/current-radio-ogg.txt
+git log --all --name-only --pretty=format: -- 'content/radio/*.ogg' | grep '\.ogg$' | sort -u > /tmp/all-radio-ogg-history.txt
+comm -23 /tmp/all-radio-ogg-history.txt /tmp/current-radio-ogg.txt > /tmp/remove-old-radio-ogg.txt
+git filter-repo --force --paths-from-file /tmp/remove-old-radio-ogg.txt --invert-paths
+git remote add origin https://github.com/Joseph-Willem-Ricci/resonance.git
+git push --force --all origin
+git push --force --tags origin
+```
+
+TODO: pull ogg files from data store in the long run
+
 ## Formatting articles
 
 The design relies on the following [front matter](https://gohugo.io/content-management/front-matter/) fields:

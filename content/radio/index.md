@@ -27,7 +27,7 @@ caption="The WXDU Studio">}}
 
 Chanel Beads - Drums Only\
 Charlie Paso - Bonus 1\
-Rayboys - Strange Love\
+Ratboys - Strange Love\
 Jana Horn - Optimism\
 Cocanha - Remenanuèch\
 Sword II - Violence of the Star\
