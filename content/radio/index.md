@@ -21,6 +21,29 @@ Or listen to my last four shows below :)
 caption="The WXDU Studio">}}
 {{</figure>}}
 
+[Wednesday, July 8, 2026 8-9am Tidal Playlist](https://tidal.com/playlist/6c28f720-ef6d-483e-a1f4-940e8f573682)
+
+~ {{< audio src="wxdu-2026-07-08.ogg" >}} ~
+
+The Hobknobs - My Conditions\
+Lande Hekt - The Sky\
+Pigeon Pit - People on the bus\
+Adrian Younge, Carlos Dafé - Amor Enfeitiçado\
+Larrison - Exiting\
+Coach Party - Nurse Depression\
+Josh Rouse - Dressed Up Like Nebraska\
+Niki & The Dove - So Much It Hurts\
+Utah Saints - Sun\
+Skúli Sverrisson & Bill Frisell - Ancient Affection\
+Anne Malin - Aubade\
+DJ Shadow - Midnight In A Perfect World\
+Half Japanese - The Summer of Love\
+Arooj Aftab - Whiskey\
+Hjaltalín - Don't Go Too Far\
+Umut Adan & Zebânis - Porta Palazzo Noise Interference\
+Adrianne Lenker - orange (Live at Revolution Hall)\
+Sun Araw - Horse Steppin'
+
 [Wednesday, July 1, 2026 8-9am Tidal Playlist](https://tidal.com/playlist/f9373c7e-ccf2-41f5-9cd5-d2f5f841af3f)
 
 ~ {{< audio src="wxdu-2026-07-01.ogg" >}} ~
@@ -88,9 +111,6 @@ Wilder Maker - Strange Meeting with Owls
 
 
 [Wednesday, June 10, 2026 8-9am Tidal Playlist](https://tidal.com/playlist/73eb68e0-f866-4cdd-a0f0-49421e82ff86)
-
-~ {{< audio src="wxdu-2026-06-10.ogg" >}} ~
-
 Gintė Preisaitė - Aéroport\
 Aldous Harding - Coats\
 Hannah Lew - Replica\
