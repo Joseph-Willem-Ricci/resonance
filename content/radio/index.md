@@ -21,6 +21,28 @@ Or listen to my last four shows below :)
 caption="The WXDU Studio">}}
 {{</figure>}}
 
+[Wednesday, July 15, 2026 8-9am Tidal Playlist](https://tidal.com/playlist/bff2cc5f-6775-4ae3-96ab-930247ab957c)
+
+~ {{< audio src="wxdu-2026-07-15.ogg" >}} ~
+
+Chris Cohen - Damage\
+Kate Bollinger - Running\
+Watchhouse - Next to Nothing\
+Car Seat Headrest - Joe Goes to School\
+Hannah Peel - Offerings To The Beast\
+Bon Iver - Babys\
+Efterklang - Modern Drift\
+David Holzman, James Ricci - Nocturne (2014)\
+Kelly Moran - Don't Trust Mirrors\
+Horse Lords - Eureka 378-B\
+Suzanne Vallie - A Place to Go\
+The Wind Harp - Circle's End\
+Rump State - Evil Vista\
+Myriam Gendron - Threnody\
+Alice Cohen - Cardboard Mermaids\
+Nadia Reid - Holy Low\
+Discovery Zone - Big Bang
+
 [Wednesday, July 8, 2026 8-9am Tidal Playlist](https://tidal.com/playlist/6c28f720-ef6d-483e-a1f4-940e8f573682)
 
 ~ {{< audio src="wxdu-2026-07-08.ogg" >}} ~
@@ -86,9 +108,6 @@ Walker Yancey - jé bu\
 Bill Nace - One for Susan Alcorn
 
 [Wednesday, June 17, 2026 8-9am Tidal Playlist](https://tidal.com/playlist/397cd8a6-7c3b-4fa2-8361-61892659e4b9)
-
-~ {{< audio src="wxdu-2026-06-17.ogg" >}} ~
-
 Blood Orange - Thinking Clean\
 Johnny Coley - Hydrangea\
 Jack Rose - Song For The Owl\
