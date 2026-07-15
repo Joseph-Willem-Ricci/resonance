@@ -107,7 +107,7 @@ Sigur Rós - Untitled #1\
 Walker Yancey - jé bu\
 Bill Nace - One for Susan Alcorn
 
-[Wednesday, June 17, 2026 8-9am Tidal Playlist](https://tidal.com/playlist/397cd8a6-7c3b-4fa2-8361-61892659e4b9)
+[Wednesday, June 17, 2026 8-9am Tidal Playlist](https://tidal.com/playlist/397cd8a6-7c3b-4fa2-8361-61892659e4b9)\
 Blood Orange - Thinking Clean\
 Johnny Coley - Hydrangea\
 Jack Rose - Song For The Owl\
@@ -129,7 +129,7 @@ Fust - Genevieve\
 Wilder Maker - Strange Meeting with Owls
 
 
-[Wednesday, June 10, 2026 8-9am Tidal Playlist](https://tidal.com/playlist/73eb68e0-f866-4cdd-a0f0-49421e82ff86)
+[Wednesday, June 10, 2026 8-9am Tidal Playlist](https://tidal.com/playlist/73eb68e0-f866-4cdd-a0f0-49421e82ff86)\
 Gintė Preisaitė - Aéroport\
 Aldous Harding - Coats\
 Hannah Lew - Replica\
@@ -145,7 +145,7 @@ Bedouine - Dusty Eyes\
 Magic Tuber Stringband - Dog-Headed Man\
 Sunn O))) - Does Anyone Hear Like Venom?
 
-[Wednesday, June 3, 2026 8-9am Tidal Playlist](https://tidal.com/playlist/3319049d-6a04-48f3-98f0-dc2b99277905)
+[Wednesday, June 3, 2026 8-9am Tidal Playlist](https://tidal.com/playlist/3319049d-6a04-48f3-98f0-dc2b99277905)\
 Setting - Ribbon of Moss\
 Marisa Anderson - Zar\
 Loma - Thorn\
