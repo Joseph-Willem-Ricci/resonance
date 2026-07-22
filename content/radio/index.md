@@ -21,6 +21,26 @@ Or listen to my last four shows below :)
 caption="The WXDU Studio">}}
 {{</figure>}}
 
+[Wednesday, July 22, 2026 8-9am Tidal Playlist](https://tidal.com/playlist/969e0eb9-646a-4159-a077-1c04e559ea6b)
+
+~ {{< audio src="wxdu-2026-07-22.ogg" >}} ~
+
+Four Tet / Kieran Hebden - Track 8 From the 2026 Wingdings Album\
+Twain - Death (or S.F.?)\
+Hana Stretton - As It Was Before This\
+Gabe Owen - All I Need\
+Joanne Robertson - If It Feels\
+Foot Ox - Cowhand\
+In Trance 95 - Throes of Passion\
+Big | Brave - quotidian : solemnity\
+Cosey Mueller - Embodiment of Denial\
+Laurie Spiegel - Dirge I\
+Turnstile - SEEIN' STARS\
+Morcheeba - The Sea\
+Helado Negro - More\
+Emily A. Sprague - Woven\
+Florist - Sci-fi Silence
+
 [Wednesday, July 15, 2026 8-9am Tidal Playlist](https://tidal.com/playlist/bff2cc5f-6775-4ae3-96ab-930247ab957c)
 
 ~ {{< audio src="wxdu-2026-07-15.ogg" >}} ~
@@ -87,10 +107,7 @@ Mina Mills - Negative Attitude\
 Burial - New Love\
 Jenny Hval - Heiner Muller
 
-[Wednesday, June 24, 2026 8-9am Tidal Playlist](https://tidal.com/playlist/92a8c975-7c96-41f5-b70b-7dea86242d0c)
-
-~ {{< audio src="wxdu-2026-06-24.ogg" >}} ~
-
+[Wednesday, June 24, 2026 8-9am Tidal Playlist](https://tidal.com/playlist/92a8c975-7c96-41f5-b70b-7dea86242d0c)\
 Lee "Scratch" Perry & Mouse on Mars - Rockcurry\
 Sotomayor - Me Dejo Llevar\
 Skúli Sverrisson & Bill Frisell - Instants\
