@@ -21,6 +21,28 @@ Or listen to my last four shows below :)
 caption="The WXDU Studio">}}
 {{</figure>}}
 
+[Wednesday, August 05, 2026 8-9am Tidal Playlist](https://tidal.com/playlist/cf3b648a-6faa-4ac9-a7c1-59b205384b77)
+
+~ {{< audio src="wxdu-2026-08-05.ogg" >}} ~
+
+Sofie Birch - Juaduddanya\
+feeble little horse - Cradle\
+The Japanese House - Letter By The Water\
+Anna von Hausswolff - An Oath\
+Black Nile - City of Fire\
+Iceage, Sky Ferreira - Pain Killer\
+District Five - Place Your Bet\
+The War on Drugs - Pain\
+Tim Hecker - Heaven Will Come\
+Lisathe - Light Lowers\
+Emahoy Tsegue-Mariam Guebru - Song of Abayi\
+The Tallest Man On Earth - Leading Me Now\
+Andrew Weathers - The Star on the Horizon (Long Verson)\
+SNAG - Paris, WI\
+SUSS - Sunset III\
+Chinese American Bear - Intro\
+Elsa Hewitt - Multicorp Unicorn
+
 [Wednesday, July 22, 2026 8-9am Tidal Playlist](https://tidal.com/playlist/969e0eb9-646a-4159-a077-1c04e559ea6b)
 
 ~ {{< audio src="wxdu-2026-07-22.ogg" >}} ~
@@ -86,10 +108,7 @@ Umut Adan & Zebânis - Porta Palazzo Noise Interference\
 Adrianne Lenker - orange (Live at Revolution Hall)\
 Sun Araw - Horse Steppin'
 
-[Wednesday, July 1, 2026 8-9am Tidal Playlist](https://tidal.com/playlist/f9373c7e-ccf2-41f5-9cd5-d2f5f841af3f)
-
-~ {{< audio src="wxdu-2026-07-01.ogg" >}} ~
-
+[Wednesday, July 1, 2026 8-9am Tidal Playlist](https://tidal.com/playlist/f9373c7e-ccf2-41f5-9cd5-d2f5f841af3f)\
 Chanel Beads - Drums Only\
 Charlie Paso - Bonus 1\
 Ratboys - Strange Love\
