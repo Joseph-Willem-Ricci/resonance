@@ -21,6 +21,29 @@ Or listen to my last four shows below :)
 caption="The WXDU Studio">}}
 {{</figure>}}
 
+[Wednesday, August 12, 2026 8-9am Tidal Playlist](https://tidal.com/playlist/7e4a9994-9ea9-4852-b055-ebe9395c5460)
+
+~ {{< audio src="wxdu-2026-08-12.ogg" >}} ~
+
+Hana Stretton -  Night Swimming\
+Neil Young - Razor Love\
+ear - Threads\
+Gibson & Toutant - Quot My Baby\
+Björk - Mycelia\
+Lael Neale - Come On\
+Julia Jacklin - Magic\
+Marissa Nadler - Turned Into Air\
+Aoife Nessa Frances - Libra\
+Alexander Noice - Golden Era\
+El Perro Del Mar - Suburban Dreams\
+The Bug Club - All My Clothes Fell Off\
+Amadou & Mariam - Furu\
+Age Coin - Raptor\
+Body Sculptures - A Collection Of Ceramic Vases (Yves Saint Laurent Buried In The Garden Of His Marrakesh Home)\
+Vanessa Amara - Untitled 5\
+Gia Margaret - Sitting at the Piano\
+Big Brave - a shape of shame
+
 [Wednesday, August 05, 2026 8-9am Tidal Playlist](https://tidal.com/playlist/cf3b648a-6faa-4ac9-a7c1-59b205384b77)
 
 ~ {{< audio src="wxdu-2026-08-05.ogg" >}} ~
@@ -85,10 +108,7 @@ Alice Cohen - Cardboard Mermaids\
 Nadia Reid - Holy Low\
 Discovery Zone - Big Bang
 
-[Wednesday, July 8, 2026 8-9am Tidal Playlist](https://tidal.com/playlist/6c28f720-ef6d-483e-a1f4-940e8f573682)
-
-~ {{< audio src="wxdu-2026-07-08.ogg" >}} ~
-
+[Wednesday, July 8, 2026 8-9am Tidal Playlist](https://tidal.com/playlist/6c28f720-ef6d-483e-a1f4-940e8f573682)\
 The Hobknobs - My Conditions\
 Lande Hekt - The Sky\
 Pigeon Pit - People on the bus\
