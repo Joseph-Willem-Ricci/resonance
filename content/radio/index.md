@@ -28,7 +28,7 @@ caption="The WXDU Studio">}}
 Hana Stretton -  Night Swimming\
 Neil Young - Razor Love\
 ear - Threads\
-Gibson & Toutant - Quot My Baby\
+Gibson & Toutant - Quoth My Baby\
 Björk - Mycelia\
 Lael Neale - Come On\
 Julia Jacklin - Magic\
