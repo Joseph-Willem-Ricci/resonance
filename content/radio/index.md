@@ -37,7 +37,7 @@ Motte - Plateau\
 Sam Gendel & Sam Wilkes - THEEM PROTOTYPE\
 Félicia Atkinson & Christina Vantzou - Little Piano Rivers\
 Molina - Hey Kids\
-Curio Curio - Hey Kids\
+Curio Curio - Amor Doente\
 Adrian Younge, Ali Shaheed Muhammad - Menina Do Tororó\
 Ana Tijoux - Apagon\
 The A's - Wedding Dress\
