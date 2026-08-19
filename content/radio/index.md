@@ -21,6 +21,28 @@ Or listen to my last four shows below :)
 caption="The WXDU Studio">}}
 {{</figure>}}
 
+[Wednesday, August 19, 2026 8-9am Tidal Playlist](https://tidal.com/playlist/2834d004-2829-4859-9947-95196434e010)
+
+~ {{< audio src="wxdu-2026-08-19.ogg" >}} ~
+
+The Slip - Suffocation Keep\
+Tristan Allen - Osni Closing\
+The Barr Brothers - Held My Head\
+Red PK - Waverly\
+Fohn - Boreen\
+merope - Rototo\
+Dialect - New Sun\
+Nala Sinephro - Space 1\
+Motte - Plateau\
+Sam Gendel & Sam Wilkes - THEEM PROTOTYPE\
+Félicia Atkinson & Christina Vantzou - Little Piano Rivers\
+Molina - Hey Kids\
+Curio Curio - Hey Kids\
+Adrian Younge, Ali Shaheed Muhammad - Menina Do Tororó\
+Ana Tijoux - Apagon\
+The A's - Wedding Dress\
+Mountain Man - Babylon
+
 [Wednesday, August 12, 2026 8-9am Tidal Playlist](https://tidal.com/playlist/7e4a9994-9ea9-4852-b055-ebe9395c5460)
 
 ~ {{< audio src="wxdu-2026-08-12.ogg" >}} ~
@@ -86,10 +108,7 @@ Helado Negro - More\
 Emily A. Sprague - Woven\
 Florist - Sci-fi Silence
 
-[Wednesday, July 15, 2026 8-9am Tidal Playlist](https://tidal.com/playlist/bff2cc5f-6775-4ae3-96ab-930247ab957c)
-
-~ {{< audio src="wxdu-2026-07-15.ogg" >}} ~
-
+[Wednesday, July 15, 2026 8-9am Tidal Playlist](https://tidal.com/playlist/bff2cc5f-6775-4ae3-96ab-930247ab957c)\
 Chris Cohen - Damage\
 Kate Bollinger - Running\
 Watchhouse - Next to Nothing\
