@@ -21,6 +21,29 @@ Or listen to my last four shows below :)
 caption="The WXDU Studio">}}
 {{</figure>}}
 
+[Wednesday, August 26, 2026 8-9am Tidal Playlist](https://tidal.com/playlist/aa7e5c1e-b1d4-438a-9355-ff5ae28e814b)
+
+~ {{< audio src="wxdu-2026-08-26.ogg" >}} ~
+
+Juana Molina - Al oeste\
+Kings of Convenience - The Weight of My Words\
+Lucid Express - Setback\
+Frog - WHERE DO I SIGN VAR. III\
+April Magazine - as you turn\
+Blonde Redhead - Kiss Her Kiss Her\
+Greg Fox - Earth Center Possessing Stream\
+Arlo Parks - South Seconds\
+Laurel Halo - Belleville\
+Amelia Riggs - Pale Fire/"November"\
+Rebecca Foon - New World Reprise\
+Bob Dylan - Simple Twist of Fate\
+Nation of Language - Spare Me the Decision\
+Julie Byrne - The Greater Wings\
+The Durutti Column - Echoes in the Memory\
+Berndt / Schmidt - "3000"\
+Cate le Bon - Harbour\
+Trance Vision Steppers - Skylarking (Remix)
+
 [Wednesday, August 19, 2026 8-9am Tidal Playlist](https://tidal.com/playlist/2834d004-2829-4859-9947-95196434e010)
 
 ~ {{< audio src="wxdu-2026-08-19.ogg" >}} ~
@@ -88,10 +111,7 @@ SUSS - Sunset III\
 Chinese American Bear - Intro\
 Elsa Hewitt - Multicorp Unicorn
 
-[Wednesday, July 22, 2026 8-9am Tidal Playlist](https://tidal.com/playlist/969e0eb9-646a-4159-a077-1c04e559ea6b)
-
-~ {{< audio src="wxdu-2026-07-22.ogg" >}} ~
-
+[Wednesday, July 22, 2026 8-9am Tidal Playlist](https://tidal.com/playlist/969e0eb9-646a-4159-a077-1c04e559ea6b)\
 Four Tet / Kieran Hebden - Track 8 From the 2026 Wingdings Album\
 Twain - Death (or S.F.?)\
 Hana Stretton - As It Was Before This\
