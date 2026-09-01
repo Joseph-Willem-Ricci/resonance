@@ -21,6 +21,32 @@ Or listen to my last four shows below :)
 caption="The WXDU Studio">}}
 {{</figure>}}
 
+[Tuesday, September 1, 2026 8-9am Tidal Playlist](https://tidal.com/playlist/368744ae-25b4-45b2-83eb-7f7e8f51c719)
+
+~ {{< audio src="wxdu-2026-09-01.ogg" >}} ~
+
+Niki Istrefi - Red Armor\
+Doruksen - RAW\
+girl in red - bad idea!\
+The Golden Palominos - Heaven\
+Ichiko Aoba - Dawn in the Adan\
+Grace Jones - Do Or Die\
+Kelela - Jupiter\
+Brimheim - Literally Everything\
+Loke Rahbek, Puce Mary - The Female Form\
+LEYA - INTP\
+Caroline Polachek - Hopedrunk Everasking\
+Washed Out - Within And Without\
+Roxy Music - Serenade\
+Pixies - Where Is My Mind?\
+The Softies - To You From Me\
+Dear Nora - sedona (Thank u Providence Remix)\
+Jeanines - A Lot\
+Galore - Alexandra\
+Emotional World - NDE\
+betty brite - House in Another State\
+Diali Cissokho & Kaira Ba - Xarit
+
 [Wednesday, August 26, 2026 8-9am Tidal Playlist](https://tidal.com/playlist/aa7e5c1e-b1d4-438a-9355-ff5ae28e814b)
 
 ~ {{< audio src="wxdu-2026-08-26.ogg" >}} ~
@@ -89,10 +115,7 @@ Vanessa Amara - Untitled 5\
 Gia Margaret - Sitting at the Piano\
 Big Brave - a shape of shame
 
-[Wednesday, August 05, 2026 8-9am Tidal Playlist](https://tidal.com/playlist/cf3b648a-6faa-4ac9-a7c1-59b205384b77)
-
-~ {{< audio src="wxdu-2026-08-05.ogg" >}} ~
-
+[Wednesday, August 05, 2026 8-9am Tidal Playlist](https://tidal.com/playlist/cf3b648a-6faa-4ac9-a7c1-59b205384b77)\
 Sofie Birch - Juaduddanya\
 feeble little horse - Cradle\
 The Japanese House - Letter By The Water\
