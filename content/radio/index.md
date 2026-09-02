@@ -11,7 +11,7 @@ featured_image: "5AF3E6B9-0158-44D4-B30E-ED6DCF1603C4.png"
 draft: false
 ---
 
-I'm DJing on WXDU 8-9am on Wednesdays. Tune in live at 88.7fm in the Durham area, or online at [wxdu.org](https://wxdu.org/)
+I'm DJing on WXDU 8-9am on Tuesdays (formerly Wednesdays). Tune in live at 88.7fm in the Durham area, or online at [wxdu.org](https://wxdu.org/)
 
 [Listen to (almost) everything I've played on WXDU on Tidal here](https://tidal.com/playlist/3f03241f-b1df-4fe2-8600-9b2ecfafd60a)
 
