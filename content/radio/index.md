@@ -21,6 +21,21 @@ Or listen to my last four shows below :)
 caption="The WXDU Studio">}}
 {{</figure>}}
 
+[Tuesday, September 8, 2026 8-9am Tidal Playlist](https://tidal.com/playlist/f35107fc-244f-4645-8b27-d1b17804f4b3)
+
+~ {{< audio src="wxdu-2026-09-08.ogg" >}} ~
+
+Sook-Yin Lee - Travelogue Without Moving\
+Holly Herndon, Jenna Sutela - Extreme Love\
+The Low Anthem - Give My Body Back\
+Daniel Romano - All the Reaching Trims\
+Smerz - You got time and I got money\
+The Authorities - Achtung!\
+Keith Papworth - Hard Hitter\
+The Slip - Suffocation Keep\
+Ben Seretan - Rain and Cicadas\
+A Silver Mt. Zion - 13 Angels Standing Guard 'Round The Side Of Your Bed
+
 [Tuesday, September 1, 2026 8-9am Tidal Playlist](https://tidal.com/playlist/368744ae-25b4-45b2-83eb-7f7e8f51c719)
 
 ~ {{< audio src="wxdu-2026-09-01.ogg" >}} ~
