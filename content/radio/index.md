@@ -21,6 +21,21 @@ Or listen to my last four shows below :)
 caption="The WXDU Studio">}}
 {{</figure>}}
 
+[Tuesday, September 15, 2026 8-9am Tidal Playlist](https://tidal.com/playlist/b0ccc5cc-13c7-4aaa-bbdb-89991da51c51)
+
+~ {{< audio src="wxdu-2026-09-15.ogg" >}} ~
+
+Casper Clausen - Used to Think\
+Virusse - Bent in Summer\
+Ben Lukas Boysen - Ours\
+Rival Consoles - Catherine\
+Clark Kessinger - Wednesday Night Waltz\
+Zoh Amba - Emahoy\
+Art and Izzy Jackson - I Never Will Marry\
+Julia Holter - Materia 3\
+sodaseas - SANTA LUCíA, MTY\
+MAPS - The Snake that Swallowed the Elephant
+
 [Tuesday, September 8, 2026 8-9am Tidal Playlist](https://tidal.com/playlist/f35107fc-244f-4645-8b27-d1b17804f4b3)
 
 ~ {{< audio src="wxdu-2026-09-08.ogg" >}} ~
@@ -85,10 +100,7 @@ Berndt / Schmidt - "3000"\
 Cate le Bon - Harbour\
 Trance Vision Steppers - Skylarking (Remix)
 
-[Wednesday, August 19, 2026 8-9am Tidal Playlist](https://tidal.com/playlist/2834d004-2829-4859-9947-95196434e010)
-
-~ {{< audio src="wxdu-2026-08-19.ogg" >}} ~
-
+[Wednesday, August 19, 2026 8-9am Tidal Playlist](https://tidal.com/playlist/2834d004-2829-4859-9947-95196434e010)\
 The Slip - Suffocation Keep\
 Tristan Allen - Osni Closing\
 The Barr Brothers - Held My Head\
@@ -107,10 +119,7 @@ Ana Tijoux - Apagon\
 The A's - Wedding Dress\
 Mountain Man - Babylon
 
-[Wednesday, August 12, 2026 8-9am Tidal Playlist](https://tidal.com/playlist/7e4a9994-9ea9-4852-b055-ebe9395c5460)
-
-~ {{< audio src="wxdu-2026-08-12.ogg" >}} ~
-
+[Wednesday, August 12, 2026 8-9am Tidal Playlist](https://tidal.com/playlist/7e4a9994-9ea9-4852-b055-ebe9395c5460)\
 Hana Stretton -  Night Swimming\
 Neil Young - Razor Love\
 ear - Threads\
