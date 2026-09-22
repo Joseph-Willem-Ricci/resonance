@@ -21,6 +21,27 @@ Or listen to my last four shows below :)
 caption="The WXDU Studio">}}
 {{</figure>}}
 
+[Tuesday, September 22, 2026 8-9am Tidal Playlist](https://tidal.com/playlist/2e5d79ce-f62a-4a20-ad44-4fcbb5dc1e3e)
+
+~ {{< audio src="wxdu-2026-09-22.ogg" >}} ~
+
+Nabihah Iqbal - A Tender Victory\
+Naima Bock - Gentle\
+toe - サニーボーイ・ラプソディ\
+Sooj - Lavender\
+bar italia - Some Like It Hot\
+Ribs - In The Rushlight\
+youbet - Undefined\
+Kim Hiorthøy - Spor 01\
+Loscil - Anthropocene\
+Tinariwen, José González - Imidiwan Takyadam\
+Aksumi - Pleine Lune\
+Bonny Doon - Naturally\
+Anna St. Louis - Better Days\
+Perfume Genius - It's a Mirror\
+Ethel Cain - Televangelism\
+TORRES - Wake to flowers
+
 [Tuesday, September 15, 2026 8-9am Tidal Playlist](https://tidal.com/playlist/b0ccc5cc-13c7-4aaa-bbdb-89991da51c51)
 
 ~ {{< audio src="wxdu-2026-09-15.ogg" >}} ~
@@ -77,10 +98,7 @@ Emotional World - NDE\
 betty brite - House in Another State\
 Diali Cissokho & Kaira Ba - Xarit
 
-[Wednesday, August 26, 2026 8-9am Tidal Playlist](https://tidal.com/playlist/aa7e5c1e-b1d4-438a-9355-ff5ae28e814b)
-
-~ {{< audio src="wxdu-2026-08-26.ogg" >}} ~
-
+[Wednesday, August 26, 2026 8-9am Tidal Playlist](https://tidal.com/playlist/aa7e5c1e-b1d4-438a-9355-ff5ae28e814b)\
 Juana Molina - Al oeste\
 Kings of Convenience - The Weight of My Words\
 Lucid Express - Setback\
