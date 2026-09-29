@@ -21,6 +21,28 @@ Or listen to my last four shows below :)
 caption="The WXDU Studio">}}
 {{</figure>}}
 
+[Tuesday, September 29, 2026 8-9am Tidal Playlist](https://tidal.com/playlist/f0994ca3-aaf0-4122-9bf5-9dc4b85a8f81)
+
+~ {{< audio src="wxdu-2026-09-29.ogg" >}} ~
+
+Sudan Archives - Confessions\
+Julia-Sophie - telephone\
+Harry Nilsson - Early in the Morning\
+Diary - Tarot\
+Firas Zreik - Jiharkah\
+Lykke Li - Unrequited Love\
+Baby Rose - Let Me Go\
+Secret Boyfriend - Beyond the Darkness\
+Son Rompe Pera - Arboledas\
+Cor de Lux - The Deli\
+Ruth Mascelli - One For The Voyeurs\
+Jamie Rosso - Speak\
+L'Rain - 5 to 8 Hours a Day (WWwaG)\
+J.W. Ricci - Realization\
+Anna Burch - Ask Me To\
+Asher White - Garden
+
+
 [Tuesday, September 22, 2026 8-9am Tidal Playlist](https://tidal.com/playlist/2e5d79ce-f62a-4a20-ad44-4fcbb5dc1e3e)
 
 ~ {{< audio src="wxdu-2026-09-22.ogg" >}} ~
@@ -72,10 +94,7 @@ The Slip - Suffocation Keep\
 Ben Seretan - Rain and Cicadas\
 A Silver Mt. Zion - 13 Angels Standing Guard 'Round The Side Of Your Bed
 
-[Tuesday, September 1, 2026 8-9am Tidal Playlist](https://tidal.com/playlist/368744ae-25b4-45b2-83eb-7f7e8f51c719)
-
-~ {{< audio src="wxdu-2026-09-01.ogg" >}} ~
-
+[Tuesday, September 1, 2026 8-9am Tidal Playlist](https://tidal.com/playlist/368744ae-25b4-45b2-83eb-7f7e8f51c719)\
 Niki Istrefi - Red Armor\
 Doruksen - RAW\
 girl in red - bad idea!\
