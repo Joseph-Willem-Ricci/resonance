@@ -1,0 +1,801 @@
+---
+title: "radio"
+date: "2026-01-25"
+summary: "---"
+language: "en"
+authors: ["Joseph Willem Ricci"]
+categories: ["Radio"]
+tags: ["Radio"]
+layout: "single_no_related_posts"
+featured_image: "5AF3E6B9-0158-44D4-B30E-ED6DCF1603C4.png"
+draft: false
+---
+
+I'm DJing on WXDU 8-9am on Tuesdays (formerly Wednesdays). Tune in live at 88.7fm in the Durham area, or online at [wxdu.org](https://wxdu.org/)
+
+[Listen to (almost) everything I've played on WXDU on Tidal here](https://tidal.com/playlist/3f03241f-b1df-4fe2-8600-9b2ecfafd60a)
+
+Or listen to my last four shows below :)
+
+{{<figure src="5AF3E6B9-0158-44D4-B30E-ED6DCF1603C4.png"
+caption="The WXDU Studio">}}
+{{</figure>}}
+
+[Tuesday, October 6, 2026 8-9am  (with Trainee Shaun) Tidal Playlist](https://tidal.com/playlist/65728b0c-7327-4202-8dde-220e5e904374)
+
+~ {{< audio src="wxdu-2026-10-06.ogg" >}} ~
+
+Natalie Prass - My Baby Don't Understand Me\
+Blind Willie Johnson - Dark Was the Night, Cold Was the Ground\
+Jake Xerxes Fussell - Early Early in the Spring\
+Elephant Gym - Anima\
+Djrum - I Wander (VII)\
+Cory Hanson - Paper Fog\
+Cor de Lux - Blind Smile\
+The Cure - In Your House\
+Röyksopp - So Easy\
+Jamie Rosso - Speak\
+Tinariwen - Amidinim Ehaf Solan\
+Flamin' Groovies - Shake Some Action\
+Cab Calloway - Minnie The Moocher\
+Nathan Salsburg - XIV
+
+[Tuesday, September 29, 2026 8-9am (with Trainee Shaun) Tidal Playlist](https://tidal.com/playlist/f0994ca3-aaf0-4122-9bf5-9dc4b85a8f81)
+
+~ {{< audio src="wxdu-2026-09-29.ogg" >}} ~
+
+Sudan Archives - Confessions\
+Julia-Sophie - telephone\
+Harry Nilsson - Early in the Morning\
+Diary - Tarot\
+Firas Zreik - Jiharkah\
+Lykke Li - Unrequited Love\
+Baby Rose - Let Me Go\
+Secret Boyfriend - Beyond the Darkness\
+Son Rompe Pera - Arboledas\
+Cor de Lux - The Deli\
+Ruth Mascelli - One For The Voyeurs\
+Jamie Rosso - Speak\
+L'Rain - 5 to 8 Hours a Day (WWwaG)\
+J.W. Ricci - Realization\
+Anna Burch - Ask Me To\
+Asher White - Garden
+
+
+[Tuesday, September 22, 2026 8-9am Tidal Playlist](https://tidal.com/playlist/2e5d79ce-f62a-4a20-ad44-4fcbb5dc1e3e)
+
+~ {{< audio src="wxdu-2026-09-22.ogg" >}} ~
+
+Nabihah Iqbal - A Tender Victory\
+Naima Bock - Gentle\
+toe - サニーボーイ・ラプソディ\
+Sooj - Lavender\
+bar italia - Some Like It Hot\
+Ribs - In The Rushlight\
+youbet - Undefined\
+Kim Hiorthøy - Spor 01\
+Loscil - Anthropocene\
+Tinariwen, José González - Imidiwan Takyadam\
+Aksumi - Pleine Lune\
+Bonny Doon - Naturally\
+Anna St. Louis - Better Days\
+Perfume Genius - It's a Mirror\
+Ethel Cain - Televangelism\
+TORRES - Wake to flowers
+
+[Tuesday, September 15, 2026 8-9am Tidal Playlist](https://tidal.com/playlist/b0ccc5cc-13c7-4aaa-bbdb-89991da51c51)
+
+~ {{< audio src="wxdu-2026-09-15.ogg" >}} ~
+
+Casper Clausen - Used to Think\
+Virusse - Bent in Summer\
+Ben Lukas Boysen - Ours\
+Rival Consoles - Catherine\
+Clark Kessinger - Wednesday Night Waltz\
+Zoh Amba - Emahoy\
+Art and Izzy Jackson - I Never Will Marry\
+Julia Holter - Materia 3\
+sodaseas - SANTA LUCíA, MTY\
+MAPS - The Snake that Swallowed the Elephant
+
+[Tuesday, September 8, 2026 8-9am Tidal Playlist](https://tidal.com/playlist/f35107fc-244f-4645-8b27-d1b17804f4b3)\
+Sook-Yin Lee - Travelogue Without Moving\
+Holly Herndon, Jenna Sutela - Extreme Love\
+The Low Anthem - Give My Body Back\
+Daniel Romano - All the Reaching Trims\
+Smerz - You got time and I got money\
+The Authorities - Achtung!\
+Keith Papworth - Hard Hitter\
+The Slip - Suffocation Keep\
+Ben Seretan - Rain and Cicadas\
+A Silver Mt. Zion - 13 Angels Standing Guard 'Round The Side Of Your Bed
+
+[Tuesday, September 1, 2026 8-9am Tidal Playlist](https://tidal.com/playlist/368744ae-25b4-45b2-83eb-7f7e8f51c719)\
+Niki Istrefi - Red Armor\
+Doruksen - RAW\
+girl in red - bad idea!\
+The Golden Palominos - Heaven\
+Ichiko Aoba - Dawn in the Adan\
+Grace Jones - Do Or Die\
+Kelela - Jupiter\
+Brimheim - Literally Everything\
+Loke Rahbek, Puce Mary - The Female Form\
+LEYA - INTP\
+Caroline Polachek - Hopedrunk Everasking\
+Washed Out - Within And Without\
+Roxy Music - Serenade\
+Pixies - Where Is My Mind?\
+The Softies - To You From Me\
+Dear Nora - sedona (Thank u Providence Remix)\
+Jeanines - A Lot\
+Galore - Alexandra\
+Emotional World - NDE\
+betty brite - House in Another State\
+Diali Cissokho & Kaira Ba - Xarit
+
+[Wednesday, August 26, 2026 8-9am Tidal Playlist](https://tidal.com/playlist/aa7e5c1e-b1d4-438a-9355-ff5ae28e814b)\
+Juana Molina - Al oeste\
+Kings of Convenience - The Weight of My Words\
+Lucid Express - Setback\
+Frog - WHERE DO I SIGN VAR. III\
+April Magazine - as you turn\
+Blonde Redhead - Kiss Her Kiss Her\
+Greg Fox - Earth Center Possessing Stream\
+Arlo Parks - South Seconds\
+Laurel Halo - Belleville\
+Amelia Riggs - Pale Fire/"November"\
+Rebecca Foon - New World Reprise\
+Bob Dylan - Simple Twist of Fate\
+Nation of Language - Spare Me the Decision\
+Julie Byrne - The Greater Wings\
+The Durutti Column - Echoes in the Memory\
+Berndt / Schmidt - "3000"\
+Cate le Bon - Harbour\
+Trance Vision Steppers - Skylarking (Remix)
+
+[Wednesday, August 19, 2026 8-9am Tidal Playlist](https://tidal.com/playlist/2834d004-2829-4859-9947-95196434e010)\
+The Slip - Suffocation Keep\
+Tristan Allen - Osni Closing\
+The Barr Brothers - Held My Head\
+Red PK - Waverly\
+Fohn - Boreen\
+merope - Rototo\
+Dialect - New Sun\
+Nala Sinephro - Space 1\
+Motte - Plateau\
+Sam Gendel & Sam Wilkes - THEEM PROTOTYPE\
+Félicia Atkinson & Christina Vantzou - Little Piano Rivers\
+Molina - Hey Kids\
+Curio Curio - Amor Doente\
+Adrian Younge, Ali Shaheed Muhammad - Menina Do Tororó\
+Ana Tijoux - Apagon\
+The A's - Wedding Dress\
+Mountain Man - Babylon
+
+[Wednesday, August 12, 2026 8-9am Tidal Playlist](https://tidal.com/playlist/7e4a9994-9ea9-4852-b055-ebe9395c5460)\
+Hana Stretton -  Night Swimming\
+Neil Young - Razor Love\
+ear - Threads\
+Gibson & Toutant - Quoth My Baby\
+Björk - Mycelia\
+Lael Neale - Come On\
+Julia Jacklin - Magic\
+Marissa Nadler - Turned Into Air\
+Aoife Nessa Frances - Libra\
+Alexander Noice - Golden Era\
+El Perro Del Mar - Suburban Dreams\
+The Bug Club - All My Clothes Fell Off\
+Amadou & Mariam - Furu\
+Age Coin - Raptor\
+Body Sculptures - A Collection Of Ceramic Vases (Yves Saint Laurent Buried In The Garden Of His Marrakesh Home)\
+Vanessa Amara - Untitled 5\
+Gia Margaret - Sitting at the Piano\
+Big Brave - a shape of shame
+
+[Wednesday, August 05, 2026 8-9am Tidal Playlist](https://tidal.com/playlist/cf3b648a-6faa-4ac9-a7c1-59b205384b77)\
+Sofie Birch - Juaduddanya\
+feeble little horse - Cradle\
+The Japanese House - Letter By The Water\
+Anna von Hausswolff - An Oath\
+Black Nile - City of Fire\
+Iceage, Sky Ferreira - Pain Killer\
+District Five - Place Your Bet\
+The War on Drugs - Pain\
+Tim Hecker - Heaven Will Come\
+Lisathe - Light Lowers\
+Emahoy Tsegue-Mariam Guebru - Song of Abayi\
+The Tallest Man On Earth - Leading Me Now\
+Andrew Weathers - The Star on the Horizon (Long Verson)\
+SNAG - Paris, WI\
+SUSS - Sunset III\
+Chinese American Bear - Intro\
+Elsa Hewitt - Multicorp Unicorn
+
+[Wednesday, July 22, 2026 8-9am Tidal Playlist](https://tidal.com/playlist/969e0eb9-646a-4159-a077-1c04e559ea6b)\
+Four Tet / Kieran Hebden - Track 8 From the 2026 Wingdings Album\
+Twain - Death (or S.F.?)\
+Hana Stretton - As It Was Before This\
+Gabe Owen - All I Need\
+Joanne Robertson - If It Feels\
+Foot Ox - Cowhand\
+In Trance 95 - Throes of Passion\
+Big | Brave - quotidian : solemnity\
+Cosey Mueller - Embodiment of Denial\
+Laurie Spiegel - Dirge I\
+Turnstile - SEEIN' STARS\
+Morcheeba - The Sea\
+Helado Negro - More\
+Emily A. Sprague - Woven\
+Florist - Sci-fi Silence
+
+[Wednesday, July 15, 2026 8-9am Tidal Playlist](https://tidal.com/playlist/bff2cc5f-6775-4ae3-96ab-930247ab957c)\
+Chris Cohen - Damage\
+Kate Bollinger - Running\
+Watchhouse - Next to Nothing\
+Car Seat Headrest - Joe Goes to School\
+Hannah Peel - Offerings To The Beast\
+Bon Iver - Babys\
+Efterklang - Modern Drift\
+David Holzman, James Ricci - Nocturne (2014)\
+Kelly Moran - Don't Trust Mirrors\
+Horse Lords - Eureka 378-B\
+Suzanne Vallie - A Place to Go\
+The Wind Harp - Circle's End\
+Rump State - Evil Vista\
+Myriam Gendron - Threnody\
+Alice Cohen - Cardboard Mermaids\
+Nadia Reid - Holy Low\
+Discovery Zone - Big Bang
+
+[Wednesday, July 8, 2026 8-9am Tidal Playlist](https://tidal.com/playlist/6c28f720-ef6d-483e-a1f4-940e8f573682)\
+The Hobknobs - My Conditions\
+Lande Hekt - The Sky\
+Pigeon Pit - People on the bus\
+Adrian Younge, Carlos Dafé - Amor Enfeitiçado\
+Larrison - Exiting\
+Coach Party - Nurse Depression\
+Josh Rouse - Dressed Up Like Nebraska\
+Niki & The Dove - So Much It Hurts\
+Utah Saints - Sun\
+Skúli Sverrisson & Bill Frisell - Ancient Affection\
+Anne Malin - Aubade\
+DJ Shadow - Midnight In A Perfect World\
+Half Japanese - The Summer of Love\
+Arooj Aftab - Whiskey\
+Hjaltalín - Don't Go Too Far\
+Umut Adan & Zebânis - Porta Palazzo Noise Interference\
+Adrianne Lenker - orange (Live at Revolution Hall)\
+Sun Araw - Horse Steppin'
+
+[Wednesday, July 1, 2026 8-9am Tidal Playlist](https://tidal.com/playlist/f9373c7e-ccf2-41f5-9cd5-d2f5f841af3f)\
+Chanel Beads - Drums Only\
+Charlie Paso - Bonus 1\
+Ratboys - Strange Love\
+Jana Horn - Optimism\
+Cocanha - Remenanuèch\
+Sword II - Violence of the Star\
+Mary Halvorson & Ambrose Akinmusire - Soundcheck\
+The Funkees - Acid Rock\
+Mahmoud Ahmed - Hoy Na-Na Jegnaw Na\
+Kasai Allstars - Baba Bende\
+Vusi Mahlasela - Molaetsa keo\
+Antibalas - Dirty Money\
+The Neville Brothers - My Blood\
+Mina Mills - Negative Attitude\
+Burial - New Love\
+Jenny Hval - Heiner Muller
+
+[Wednesday, June 24, 2026 8-9am Tidal Playlist](https://tidal.com/playlist/92a8c975-7c96-41f5-b70b-7dea86242d0c)\
+Lee "Scratch" Perry & Mouse on Mars - Rockcurry\
+Sotomayor - Me Dejo Llevar\
+Skúli Sverrisson & Bill Frisell - Instants\
+Dirty Projectors, Björk - On and Ever Onward\
+Ólöf Arnalds - German Fields\
+Supersport!, Salóme Katrín - En sama hvað...\
+Ólafur Arnalds - ekki hugsa\
+aja monet - i know that i don't know\
+Leenalchi - Bird\
+Emilíana Torrini - Black Water\
+Sigurline Bjarnarson and Christine Gudmundsen - Ólafur Reið Með Björgum Fram / Olafur Rode Beneath The Cliffs\
+Múm - I'm 9 Today\
+Sigur Rós - Untitled #1\
+Walker Yancey - jé bu\
+Bill Nace - One for Susan Alcorn
+
+[Wednesday, June 17, 2026 8-9am Tidal Playlist](https://tidal.com/playlist/397cd8a6-7c3b-4fa2-8361-61892659e4b9)\
+Blood Orange - Thinking Clean\
+Johnny Coley - Hydrangea\
+Jack Rose - Song For The Owl\
+White Fence - Only Man Alive\
+Melody's Echo Chamber - Ocean Road\
+Visible Cloaks - Swirl\
+Karsh Kale - Heroes\
+Hour - Hallmark\
+The Reds, Pinks & Purples - Don't Come Home Too Soon\
+more eaze - distance\
+Boards of Canada - Naraka\
+Gamelan Batel - Tabuh Penyuwud\
+Ed Young & Hobart Smith - Joe Turner\
+SAULT - Envious\
+Scivic Rivers - Golden Age of Technique\
+Céu - Cremosa\
+Tops - Stars Come After You\
+Fust - Genevieve\
+Wilder Maker - Strange Meeting with Owls
+
+
+[Wednesday, June 10, 2026 8-9am Tidal Playlist](https://tidal.com/playlist/73eb68e0-f866-4cdd-a0f0-49421e82ff86)\
+Gintė Preisaitė - Aéroport\
+Aldous Harding - Coats\
+Hannah Lew - Replica\
+Jonathan Wilson - Loving You\
+Zoh Amba - Champa Flower\
+Ali Farka Touré - Bakoye\
+sir Was - No Giving Up\
+Portico Quartet / Hania Rani - Nest (Portico Quartet Remix)\
+Portico Quartet / Hania Rani - With, Beside, Against (Hania Rani Remix)\
+Aaron Shaw - Soul Journey\
+Little Chair - Summer Wow\
+Bedouine - Dusty Eyes\
+Magic Tuber Stringband - Dog-Headed Man\
+Sunn O))) - Does Anyone Hear Like Venom?
+
+[Wednesday, June 3, 2026 8-9am Tidal Playlist](https://tidal.com/playlist/3319049d-6a04-48f3-98f0-dc2b99277905)\
+Setting - Ribbon of Moss\
+Marisa Anderson - Zar\
+Loma - Thorn\
+Cancer House - Flowers Over There\
+Lust for Youth - Imola\
+Anna Butterss - Reasonable Death\
+Lucrecia Dalt - No tiempo\
+Minor Moon - Cracking Glass\
+Chris Staples - Relatively Permanent\
+Fleet Foxes - The Cascades\
+Okkervil River - Wake and Be Fine\
+Teerath Majumder - Island\
+Ben Alleman - How to Stay Sane in February\
+Age of Peace - Rainy Days\
+Gregory Uhlmann - Mint Chip\
+Alice Phoebe Lou - Lately
+
+[Wednesday, May 20, 2026 8-9am Tidal Playlist](https://tidal.com/playlist/6d84ddae-ee3d-4e14-a4eb-f13c3d5deb0f)\
+Oklou - want to wanna come back\
+Sam Amidon - Kedron\
+Jura, ML Buch, Clarissa Connelly, Ydegirl, Helene Norup Due - You Make a Fire, You Make a Camp\
+Tacoma Park - Coral\
+aya, Iceboy Violet - Emley lights us moor\
+Yves Tumor - Hasdallen Lights\
+Kim Gordon - GIRL WITH A LOOK\
+Caterina Barbieri, Bendik Giske - Intuition, Nimbus\
+Terry Allen - Oui (a French Song)\
+Wendy Eisenberg - Take A Number\
+Indigo Sparke - Baby\
+Kali Malone - No Sun To Burn (for Brass)\
+Teitur, Aarhus Jazz Orchestra - Forgot My Sunglasses II\
+Deerhoof - Flower\
+Hayden Thorpe - Love Crimes\
+Himba Hymn - Don't Cry (Your Father & Grandfather Are Good)\
+Lia Kohl - sit on the floor and wait for storms\
+Seefeel - Ever No Way
+
+[Wednesday, May 13, 2026 8-9am Tidal Playlist](https://tidal.com/playlist/4b6506c0-f9b2-46c6-a670-c804a1855a40)\
+Carla dal Forno - Staying in\
+J.W. Ricci - Through a Frame\
+Adrianne Lenker - ingydar\
+Helena Deland - Bright Green Vibrant Gray\
+Flore Laurentienne - Fleuve VIII\
+Maria Somerville - Stonefly\
+Les Filles de Illighadad - Inigradan\
+Fine - Days Incomplete\
+Hayden Pedigo - Elsewhere\
+José González - Fold\
+Mammal Hands - Fallow Tide\
+J.W. Ricci - Pollen Drop\
+Will Stratton - Skating on the Glass\
+LAKE - Bucolic Gone\
+New Issue - Slide\
+Mount Eerie - Planets\
+Joe Fujinoki - Still\
+Big Thief - Red Moon
+
+[Wednesday, May 6, 2026 8-9am Tidal Playlist](https://tidal.com/playlist/699ee6a1-3b7d-4e93-b449-08f953494afe)\
+Andrew Weil, MD - Self-Love\
+Gintė Preisaitė - Deepen\
+Eli Moore - Haunted\
+James Taylor - Copperline\
+Oren Ambarchi - Hubris, Pt. 2\
+Avalon Emerson - The Stone\
+Rosali - My Kind\
+Bonnie "Prince" Billy - Hey Little\
+Gun Outfit - Landscape Painter\
+Object Hours - Haunted Forest Near Me\
+Galore - Zinger\
+The Aislers Set - Friends Of The Heroes\
+Toechter - Me she said\
+Panda Bear - Praise\
+Laura Groves - Good Intention\
+Carla dal Forno - Clusters\
+Andrew Weil, MD - Close
+
+[Wednesday, April 29, 2026 8-9am Tidal Playlist](https://tidal.com/playlist/61a145f0-c26d-4d53-bcf1-30aa57d46917)\
+Efterklang - I dine øjne\
+Snuggle - Sun Tan\
+Communions - Hymn\
+Lucky Lo - Supercarry\
+Loula Yorke, Charlotte Jolly - the carrier bag theory of fiction\
+Madala Kunene & Sibusile Xaba - Uhebe\
+Little Wings - Brutal North Pillow\
+Prefuse 73 - Perverted Undertones\
+Jurassic 5 - Freedom\
+Weyes Blood - In Holy Flux\
+hemlock - Sky Baby\
+Bombino - Itisahid\
+Slowdive - skin in the game\
+Moses Sumney - Virile\
+Pygmy Lush - Asphalt\
+Klara Lewis - Clearing\
+Memorials - Holy Invisible
+
+[Wednesday, April 22, 2026 8-9am Tidal Playlist](https://tidal.com/playlist/9fc483a5-24b2-4a33-a36f-bb1cb76804d2)\
+P.E.A. Shangaan Guitar Player - Machanjawa (Mozambique)\
+M.S. Razafindrazaka and group - Ampy Izay Ny Andro Lasa (Madagascar)\
+Itokazu Kame with Maekawa Chōshō and Kadekaru Rinshō - Ichiman Angwaa (Okinawa, Japan)\
+Lupe Posada and Cascada de Chicharrón - Hacia las Cumbres (Mexico)\
+Guria-Adjara Choir (led by Artem Erkomaishvili) - Orira (Georgia)\
+Giorgio Gaber - L'Impotenza\
+Yasmin Williams - Juvenescence\
+Sluice - Centurion\
+Life of Lola - Sunflower\
+Juliana Hatfield - Simplicity is Beautiful\
+Floating Points - Anasickmodular\
+Suzanne Vallie - River of Angels Wings\
+Crumb - Ice Melt\
+Maxime Denuc - Agoraphobia\
+Karima Walker - Hands in Our Names\
+Kara-lis Coverdale - A 480\
+James Blake - Obsession\
+Setting - Zoetropics
+
+[Wednesday, April 15, 2026 8-9am Tidal Playlist](https://tidal.com/playlist/6ff7745f-62c0-4987-bc06-707b1d33e462)\
+Verity Den - I / II / ETYWD / III / IV\
+Mount Eerie - Boat\
+Sibyl - The Arrow and the Song\
+Brìghde Chaimbeul - Sguabag/The Sweeper\
+Bob Dylan - When the Ship Comes In\
+Neil Young - Sugar Mountain (Live at Canterbury House 1968)\
+Group Rhoda - Aeolian Crossing\
+The Sugarcubes - Planet\
+Amanaz - I Am Very Far\
+Chris Corsano & Bill Orcutt - The world without me\
+Sects - Quarter Bells in Country Sleep
+
+[Wednesday, April 8, 2026 8-9am Tidal Playlist](https://tidal.com/playlist/e3fc5f8f-aa3a-4eaf-a2d3-fac88a1f661d)\
+Meg Baird - Unnamed Drives\
+Sister Irene O'Connor - Nature Is A Song\
+Crumb - AMAMA\
+Paperclip Minimiser - II B3\
+Colle - Silent But For Joy\
+Raisa K - Affectionately\
+james K - Peel\
+Tara Clerkin Trio - World in Delay\
+Anne Clark - Poem For A Nuclear Romance\
+Annsofie Salomon - Soft Dreams\
+Izzy Johnson - Letting Go\
+Otracami - Perfect Reach\
+The Onlies - Cumberland Gap\
+Sluice - Zillow\
+Tanukichan - Hunned Bandz\
+Tinariwen - Emajer\
+Larua Marling - Lullaby (Instrumental)\
+K. Yoshimatsu - 1846\
+my bloody valentine - Only Shallow\
+Omasta - Cornerstone
+
+[Wednesday, April 1, 2026 8-9am Tidal Playlist](https://tidal.com/playlist/3f4b11c7-c173-485c-82b6-13cebbe00cb0)\
+Les Filles de Illighadad - Achibaba\
+Will Stratton, The Weather Station - Gray Lodge Wisdom\
+Arthur Russell - Close My Eyes\
+Midori Hirano - Oto, Kioku\
+Sylvan Esso - Your Reality\
+Florist - This Was A Gift\
+Flying Lotus - BIG MAMA\
+Alabaster Deplume - A Gentle Acaba (Vento Em Rosa)\
+Beach House - Sunset\
+Levitation Orchestra - Breathe It In\
+Daniel Avery, Allesandro Cortini - Illusion Of Time\
+Jimi Hendrix - Little Wing (Live at the Royal Albert Hall)\
+Sun Kil Moon - Carry Me Ohio\
+Nick Hakim - Cuffed\
+Woo - Dobbins Lost His Coconuts - Revisited\
+Ruth Parker - After the Storm\
+Bézier - Inner Grace\
+Itasca - Imitation of War
+
+[Wednesday, March 25, 2026 8-9am Tidal Playlist](https://tidal.com/playlist/f81c4702-dc3c-43bc-bd1c-9e34704fb051)\
+Babehoven - Stand It\
+Brimheim - Literally Everything\
+urika's bedroom - *66\
+Art School Girlfriend - The Peaks\
+The Messthetics & James Brandon Lewis - 30 Years of Knowing\
+Supersport!, Salóme Katrín - En sama hvað...\
+Hjaltalín - Don't Go Too Far\
+IRAH - Into Dimensions\
+Yndling - It's Almost Like You're Here\
+Jessica Pratt - Glances\
+Bad Posture Club - Whippoorwill\
+Entrez Vous - Oh, Raquel!\
+Nina Garbus - Angel Three (Seaside, Sub Rosa)\
+Fabiano Do Nascimento & Sam Gendel - Poeira\
+Eiko Ishibashi - Coma\
+The Soft Pink Truth - And By and By A Cloud Takes All Away\
+Glyders - Moon Eyes\
+Misty Lane - Energy (7" Mix)
+
+[Wednesday, March 11, 2026 8-9am Tidal Playlist](https://tidal.com/playlist/f9a9baa5-78c4-4d43-a065-0e883d97c413)\
+Tristan Schmidt Trio - With a Song in My Heart\
+Toumani Diabate - Jarabi\
+Natalie Jane Hill - Rose and Pink\
+Kelly Lee Owens - Time To\
+Charles Webster & The South African Connection - From The Hill\
+Altin Gün - Gel Yanima Gel\
+Mohammed Al-Harazi - I'm Afraid For You خايف عليك\
+Oh Stone and Will Younts - Meteor Song\
+A.A. Bondy - Images of Love\
+Life Without Buildings - Philip\
+Asher Gamedze - State (Of The Internation)\
+Barry Walker Jr. - Leaving Lower Big Basin feat. Rob Smith & Jason Willmon\
+Hiss Golden Messenger - The Serpent is Kind (Compared to Man)\
+Marielle V Jakobsons - Without You Inside Time\
+Aldous Harding - Staring At The Henry Moore\
+Gwenno - Keltek\
+Daughter of Swords - Vacation\
+Sharon Van Etten - Tarifa
+
+[Wednesday, March 04, 2026 8-9am Tidal Playlist](https://tidal.com/playlist/d0314d1d-17f3-415a-aed2-fea0267548d4)\
+Maria Somerville - Garden\
+Sofia Kourtesis - Sisters\
+Charlotte Cornfield - Gentle Like The Drugs\
+This Is Lorelei - My Friend 2\
+Big Thief - No Reason\
+Hayden Pedigo - The Happiest Times I Ever Ignored\
+Allegra Krieger - Roosevelt Ave\
+Crasher - An Airport With No Windows\
+Hannah Cohen - Summer Sweat\
+Eli Winter - Cracking the Jaw\
+Truth Club - Suffer Debt\
+Barker - Reframing\
+Tujiko Noriko + Aoki Takamasa - Fly 2\
+Niecy Blues - Cascade\
+Hania Rani, Patrick Watson - Dancing with Ghosts\
+Cameron Knowler - Atelier de Stein\
+Ana Roxanne - Camille\
+Eljuri - Cambio
+
+[Wednesday, February 25, 2026 8-9am Tidal Playlist](https://tidal.com/playlist/d04f8f65-85af-4062-99dd-bf2edbd7e82a)\
+Lightning Bug - Song of the Bell\
+Mali Velasquez - Tore\
+The Dead Tongues - Nothingness and Everything\
+Magic Tuber Stringband - Tribute to the Angels\
+Aksak Maboul - Gyrovagations\
+Eli Moore - The Power Line\
+Asha Wells - California\
+Ora Cogan - Cowgirl\
+MOSKITO - Thula Msindo\
+Peals - Before and After: XI\
+Gia Margaret - lesson\
+Twain - King of Fools\
+José González - Horizons\
+Brìghde Chaimbeul - Bog an Lochan\
+Yuno - We Belong\
+Hailu Mergia & The Walias - Tezeta\
+Puppet Wives - Mort's Grey Cloud\
+Prolapse - A Forever\
+Katy Kirby - Fences
+
+[Wednesday, February 18, 2026 8-9am Tidal Playlist](https://tidal.com/playlist/dbe6139f-e24b-4cc3-b19c-a7c09cc7330f)\
+Dry Cleaning - Cruise Ship Designer\
+Adrianne Lenker - From\
+Molina - Golden Brown Sugar\
+Lee Baggett - Yesterday\
+sweet93 - what's true?\
+Yara Asmar - in dandelion fields\
+Suitor - Factory\
+Palm Springs - Your Ashes, My Tree\
+Kate NV - oni (they)\
+Mega Bog - Flower\
+Jan Jelinek - Tendency\
+Palace Winter - Monument Eyes\
+Els Himma - Samba\
+grouper - Pale Interior\
+Hana Stretton - Captains Flat\
+Kaitlyn Aurelia Smith - Let it Fall\
+Ex Iguana - Haley is a Machine
+
+[Wednesday, February 11, 2026 8-9am Tidal Playlist](https://tidal.com/playlist/eb372266-76ca-4bfd-8258-a3b9a3cfe97a)\
+Suzanne Vallie - Love Lives Where Rules Die\
+Lucky Lo - Fruits in the Ocean\
+Spinvis - Niet Vandaag\
+Little Mazarn - Crescent Moon on the Gate\
+The Barr Brothers - Red Moth Solar Companion\
+Jane Weaver - Hud A Llefrith\
+sir Was x Casper Clausen - Flyder\
+Rozi Plain - Help\
+Luke Temple - Wounded Brightness\
+Julianna Barwick & Mary Lattimore - Temple Of The Winds\
+frances willow - you would not get it\
+Erie Choir - Artifacts\
+Fog Lake - Catacombs\
+The Carolina Cutups - Dim Lights, Thick Smoke\
+Evelyne / Masao - Le soleil se leve\
+Kayla Painter - Sojourn\
+Sarah Louise - Where the Owl Hums
+
+[Wednesday, February 4, 2026 8-9am Tidal Playlist](https://tidal.com/playlist/44dd2c4c-36bc-4d20-b482-32e8daae4c61) ft. [DJ Panzón](https://www.mixcloud.com/sonidopanzon/) ([Adrian Martinez Chavez](https://www.adrianmartinezchavez.com/))\
+Efterklang - Uden Ansigt\
+K-LONE - fauna\
+Kill the Buddha - Mr. G.\
+Oneohtrix Point Never - Bell Scanner\
+Combo Chimbita - Pajaro (Panzón)\
+Los Cheyenes - Black Gold (Panzón)\
+La Tribu - Para Que (Panzón)\
+Los Corraleros de Majagual & Ruido Selecto - Cumbia Saramuya (Rebejada Dubmix) (Panzón)\
+Laurel Premo - On My Way To See Nancy\
+Grupo Jejeje - Asuka (Panzón)\
+Conjunto Media Luna & Turbo Sonidero - Kumbia Dos Pasitos (Panzón)\
+Amantes de Futuro - Cumbia de la Montaña (Panzón)\
+Los Discos Duro - Chambacu (Panzón)\
+Yo La Tengo - Leaving Home\
+Bebel Gilberto - Tanto Tempo\
+Claire Rousay - night one\
+Sally Anne Morgan - Awake
+
+[Wednesday, January 21, 2026 8-9am Tidal Playlist](https://tidal.com/playlist/c3d6a780-cd12-42b9-a1d2-8234143e9d4a)\
+Helena Deland - Bright Green Vibrant Gray\
+School of X - 1989\
+Juni Habel - Evergreen In Your Mind\
+Anna Tivel - Memphis\
+Talitha Ferri - Thanks a lot for Everything\
+Jake Xerxes Fussell, James Elkington - Chili Roast Waltz\
+Emma Geiger - All Your Words\
+Loose green - EWYT\
+Kathleen Williams - Connecticut #2\
+Joanne Robertson - Doubt\
+ML Buch - Pan over the hill\
+Western Skies Motel - Falling Leaves\
+Anastasia Coope - Piano Stacks\
+heartscape landbreak - wave after wave\
+Kuku Sebsibe - የእኔ ውብ ቆንጆ - Yene Wub Konjo (My Handsome)\
+Weirs - I Want to Die Easy\
+Weirs - Doxology (I)\
+Amaria Hamadalher - Tarhanine
+
+[Wednesday, January 7, 2026 8-9am Tidal Playlist](https://tidal.com/playlist/449ff643-f332-47c0-b0c7-0134ceb84ed1)\
+Chorus Grant - Grass Snake\
+Fine - Losing Tennessee\
+Mike Polizze - It Goes Without Saying\
+Mason Lindahl - Dressed and Pleased\
+Jim Jarmusch, Anika - Return\
+Sam Amidon - Juma Mountain\
+Love Spirals Downwards - City Moon\
+They Are Gutting a Body of Water - violence iii\
+The Balfa Family - Valse de Balfa\
+Chat Pile, Hayden Pedigo - Outside\
+Ora Cogan - Waterbound\
+Daniel Norgren - The Flow\
+Kelan Phil Cohran & Legacy - Kalahari\
+Joan Shelley - Amberlit Morning\
+Tiny Ruins - Olympic Girls\
+Ragana, Drowse - In Eternal Woods, Pt. 4\
+Holy Sons - Everything
+
+[Wednesday, December 31, 2025 8-9am Tidal Playlist](https://tidal.com/playlist/c7dc28ef-b04c-4926-a9e5-d8587da924a8)\
+Loma - Ocotillo\
+Holy Sons - Puritan Themes\
+Buck Meek - Lagrimas\
+Lhasa De Sela - La Frontera\
+Jake Xerxes Fussell, James Elkington - Riding To The Ranch\
+Akiko Yano - Satchan\
+Sam Evian - Cactus\
+Almon Memela - Amapoyisa\
+Yves Jarvis - Victim\
+Jim White - Cloudy\
+Megafaun - Hope You Know\
+Cameron Winter - Love Takes Miles\
+Sarah Pagé - Lithium Taper\
+Sigur Rós - Avalon\
+Gia Margaret - City Song\
+Skúli Sverrisson, Bill Frisell - Sweet Earth\
+This Is The Kit - Keep Going
+
+[Wednesday, December 10, 2025 8-9am Tidal Playlist](https://tidal.com/playlist/ae921242-273c-4323-8c56-bb6abea4ad62)\
+Geese - Au Pays du Cocaine\
+Big Thief - Century\
+Dean Blunt - LUSH\
+Alex G - Gretel\
+Geese - Half Real\
+Bremer/McCoy - Højder\
+Wednesday - The Way Love Goes\
+Phil Cook - Belong\
+Damien Jurado - Allocate\
+Snocaps - Hide\
+Hiss Golden Messenger - Lateness of Dancers\
+Ayub Ogada - Obiero\
+Bonny Light Horseman - Deep In Love\
+The Cosmic Tones Research Trio - Photosynthesis\
+Nightmares on Wax - Exho45, We Are!\
+Choir Of Young Believers - Hollow Talk\
+claire rousay - a kind of promise
+
+[Wednesday, December 3, 2025 8-9am Tidal Playlist](https://tidal.com/playlist/07a23ad5-119e-415a-b4f6-9003b6faa726)\
+Wau Wau Collectif - Mouhamodou Lo and His Children\
+Adrianne Lenker - symbol (live)\
+Swell Maps - Big Empty Field\
+Hand Habits - No Difference\
+Sarah Louise - Bowman's Root\
+Skullcrusher - Sticker\
+Sarathy Korwar - Looking For A Ghazal\
+This Is The Kit - This Is When The Sky Gets Big\
+Genevieve Artadi Real Bad Man - Kill The Lie\
+Makaya McCraven, Ben LaMar Gay, Theon Cross - Boom Bapped\
+Flock Of Dimes - Price of Blue\
+Tortoise - Oganesson\
+Magic Tuber Stringband - Twelfth House\
+verity den - unsolved mystery\
+Crosby, Stills, Nash & Young - Helpless\
+Will Stratton - Thick Skin
+
+[Wednesday, November 26, 2025 8-9am Tidal Playlist](https://tidal.com/playlist/e0f98237-d271-4a42-bbf1-fa757e49ec14)\
+Arthur Russell - Love Is Overtaking Me\
+Patrick Cowley, Jeanie Tracy - Spellbinding Lover\
+Hélène Barbier - Kindness in a cup\
+Bizimungu Dieudonne - Tabara Ryangombe\
+Yasmine Hamdan - I remember I forget بنسى وبتذكر\
+Sofie Birch, Nana Pi - Humidity\
+Jenny Hval - Lay down\
+Jana Horn - Days Go By\
+Beach House - New Romance\
+Charile Parr - Jaybird\
+Blue Cactus, Erin Rae - Resolution\
+Nora Guthrie - Home Before Dark\
+Horse Jumper of Love - Wink\
+Wednesday - One More Last One\
+Ólafur Arnalds, Talos - Shared Time\
+Jake Xerxes Fussell - Frolic\
+Florist - Two Ways\
+Emma Geiger - Flock
+
+[Wednesday, November 19, 2025 8-9am Tidal Playlist](https://tidal.com/playlist/25c64323-edf4-4b98-88bf-05511800944c)\
+Maria Somerville - Stonefly\
+HAAi - Can't Stand To Lose\
+Sofia Kourtesis - Madres\
+verity den - unsolved mystery\
+verity den - spit red\
+Loula Yorke - Fontana\
+Les Filles de Illighadad - Telilit\
+Brune Berle - Te Amar Eterno\
+Michael Beach - Glimmering Beetle\
+Khruangbin - The Man Who Took My Sunglasses ii\
+The Weather Station - Came so Easy\
+Dana Gavanski - At Last I Am Free\
+Falle Nioke, Ghost Culture - Mounemouma\
+merope, Shahzad Ismaily, Laraaji - Namopi\
+Loma - Please, Come In\
+Itasca - Interlude\
+Feist - The Redwing
+
+[Wednesday, November 12, 2025 8-9am Tidal Playlist](https://tidal.com/playlist/307e9ce4-b778-4fb6-a7ef-11ebbec2463e)\
+Jeff Tweedy - Secret Door\
+Lindsay Reamer - Today\
+Taste - Bleachers Buried in Sand\
+Spllit - Next Level Music\
+Toumani Diabate - Kaouding Cissoko\
+Efterklang - Sedna\
+Nick Drake - From The Morning\
+Julianna Barwick - Beached\
+Belle & Sebastian - Nobody's Empire\
+Lake - Roger Miller\
+Hard Copy - Torpedo\
+Bene Gesserit - Nomad's Land\
+José Gonzalez - With The Ink Of A Ghost\
+Circle - Satulinnut\
+Cat Power - The Greatest
