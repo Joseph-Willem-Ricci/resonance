@@ -53,7 +53,7 @@ jobs:
         run: "[[ -f package-lock.json || -f npm-shrinkwrap.json ]] && npm ci || true"
 
       - name: Install Python dependencies
-        run: pip install git+https://www.github.com/hbldh/hitherdither
+        run: pip install "Pillow==11.3.0" git+https://www.github.com/hbldh/hitherdither
       - name: Process Images
         run: python utils/dither_images.py --directory content/
         env:
