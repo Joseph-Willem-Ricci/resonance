@@ -7,7 +7,7 @@ authors: ["Joseph Willem Ricci"]
 categories: ["Radio"]
 tags: ["Radio"]
 layout: "single_no_related_posts"
-featured_image: "5AF3E6B9-0158-44D4-B30E-ED6DCF1603C4.png"
+featured_image: "5AF3E6B9-0158-44D4-B30E-ED6DCF1603C4.tiff"
 draft: false
 ---
 
@@ -17,7 +17,7 @@ I'm DJing on WXDU 8-9am on Tuesdays (formerly Wednesdays). Tune in live at 88.7f
 
 Or listen to my last four shows below :)
 
-{{<figure src="5AF3E6B9-0158-44D4-B30E-ED6DCF1603C4.png"
+{{<figure src="5AF3E6B9-0158-44D4-B30E-ED6DCF1603C4.tiff"
 caption="The WXDU Studio">}}
 {{</figure>}}
 
