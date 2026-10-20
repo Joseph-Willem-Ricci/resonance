@@ -102,10 +102,7 @@ Perfume Genius - It's a Mirror\
 Ethel Cain - Televangelism\
 TORRES - Wake to flowers
 
-[Tuesday, September 15, 2026 8-9am Tidal Playlist](https://tidal.com/playlist/b0ccc5cc-13c7-4aaa-bbdb-89991da51c51)
-
-~ {{< audio src="wxdu-2026-09-15.ogg" >}} ~
-
+[Tuesday, September 15, 2026 8-9am Tidal Playlist](https://tidal.com/playlist/b0ccc5cc-13c7-4aaa-bbdb-89991da51c51)\
 Casper Clausen - Used to Think\
 Virusse - Bent in Summer\
 Ben Lukas Boysen - Ours\
