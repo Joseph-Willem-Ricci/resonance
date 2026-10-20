@@ -104,9 +104,9 @@ def dither_image(source_image, output_image, category ='grayscale'):
             
         img_dithered.save(output_image, optimize=True)
 
-    except Exception as e:
-        logging.debug("❌ failed to convert {}".format(source_image))
-        logging.debug(e)
+    except Exception:
+        logging.exception("Failed to convert %s", source_image)
+        raise
 
 def delete_dithers(content_dir):
     logging.info("Deleting 'dither' folders in {} and below".format(content_dir))
