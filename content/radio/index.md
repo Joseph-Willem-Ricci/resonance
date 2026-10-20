@@ -21,6 +21,25 @@ Or listen to my last four shows below :)
 caption="The WXDU Studio">}}
 {{</figure>}}
 
+[Tuesday, October 20, 2026 8-9am Tidal Playlist](https://tidal.com/playlist/11369dd8-f15f-452c-b5e0-7d3cac6aff9a)
+
+~ {{< audio src="north.ogg" >}} ~
+
+Marie Davidson - Validations Weight\
+Blind Yeo - Colour Pillow / Kologo\
+Healing Potpourri - Free\
+Josephine Foster - Sanctuary\
+Trina Basu & Arun Ramamurthy - Offering\
+Lambchop - Weakened\
+Mei Semones - Donguri\
+Dungen - En Är För Mycket och Tusen Aldrig Nog\
+Sylvan Esso - Jessica\
+Sō Percussion & Dan Trueman - Neither Anvil Nor Pulley, Act III: A Cow Call [Please oh Please Come Home!]\
+Colleen - Mis armas se habian caido al suelo\
+Jane Remover - Flash in the Pan (Clean Edit)\
+Tokyo Shoegazer - Vega\
+Jon Hassell - Blue Ba-Ya
+
 [Tuesday, October 6, 2026 8-9am  (with Trainee Shaun) Tidal Playlist](https://tidal.com/playlist/65728b0c-7327-4202-8dde-220e5e904374)
 
 ~ {{< audio src="wxdu-2026-10-06.ogg" >}} ~
