@@ -21,6 +21,28 @@ Or listen to my last four shows below :)
 caption="The WXDU Studio">}}
 {{</figure>}}
 
+[Tuesday, October 27, 2026 8-9am Tidal Playlist](https://tidal.com/playlist/c86dae95-2d62-4729-974c-d95b9edfd066)
+
+~ {{< audio src="east.ogg" >}} ~
+
+Bowerbirds - No One Left in the Garden\
+Squirrel Flower - Weightless, Untethered\
+The Yummy Fur - Say Hello\
+Lily Konigsberg - Sweat Forever\
+Eccodek - Lover's Lament\
+Lower - Someone's Got It in for Me\
+June McDoom - Weaver\
+Henry the Rabbit, Beatrice Morel Journel, Semay Wu - Lever de Lune (Meules)\
+Omar Souleyman - Mawal Jamar\
+Iceblink - Microsong\
+Woke County Speedway - Hairshirt and a Mop\
+Yaya Bey - dream girl (clean)\
+Dania - Anomaly\
+Holy Tongue - I've stood in this room for a long time before\
+Nightshift - Outta Space\
+Myrkur - Bålfærd\
+Black Meteoric Star - Pombagira
+
 [Tuesday, October 20, 2026 8-9am Tidal Playlist](https://tidal.com/playlist/11369dd8-f15f-452c-b5e0-7d3cac6aff9a)
 
 ~ {{< audio src="north.ogg" >}} ~
@@ -81,10 +103,7 @@ Anna Burch - Ask Me To\
 Asher White - Garden
 
 
-[Tuesday, September 22, 2026 8-9am Tidal Playlist](https://tidal.com/playlist/2e5d79ce-f62a-4a20-ad44-4fcbb5dc1e3e)
-
-~ {{< audio src="wxdu-2026-09-22.ogg" >}} ~
-
+[Tuesday, September 22, 2026 8-9am Tidal Playlist](https://tidal.com/playlist/2e5d79ce-f62a-4a20-ad44-4fcbb5dc1e3e)\
 Nabihah Iqbal - A Tender Victory\
 Naima Bock - Gentle\
 toe - サニーボーイ・ラプソディ\
