@@ -21,6 +21,29 @@ Or listen to my last four shows below :)
 caption="The WXDU Studio">}}
 {{</figure>}}
 
+[Tuesday, November 3, 2026 8-9am Tidal Playlist](https://tidal.com/playlist/66feaea3-d2fa-44fe-9c59-5fdeba7f2f85)
+
+~ {{< audio src="south.ogg" >}} ~
+
+Oliver Coates, Malibu - Soaring X\
+Croche - Lying Down\
+Oklou - blade bird\
+Bibi Club - Femme-Lady\
+R Beny - glittered in thaw\
+Sheila Chandra - Speaking in Tongues I\
+Serena-Maneesh - I Just Want To See Your Face\
+Tricky, Martina Topley-Bird - Singing The Blues\
+Tara Jane O'Neil - All Now Vibe\
+Jeremiah Chiu - In Visibility\
+Cedric Watson, Corey Ledet - Valse de Cherokee\
+Emma Ruth Rundle - Oceans of Time\
+Charlotte Adigéry, Bolis Pupul - Esperanto\
+Ak'chamel - Serpent House\
+deary - The Moth\
+Steve Bates - Battles and sieges and street trees\
+Daniel Bachman - Orange County Serenade\
+Devin Maxwell - Cloudseeding 14
+
 [Tuesday, October 27, 2026 8-9am Tidal Playlist](https://tidal.com/playlist/c86dae95-2d62-4729-974c-d95b9edfd066)
 
 ~ {{< audio src="east.ogg" >}} ~
@@ -81,10 +104,7 @@ Flamin' Groovies - Shake Some Action\
 Cab Calloway - Minnie The Moocher\
 Nathan Salsburg - XIV
 
-[Tuesday, September 29, 2026 8-9am (with Trainee Shaun) Tidal Playlist](https://tidal.com/playlist/f0994ca3-aaf0-4122-9bf5-9dc4b85a8f81)
-
-~ {{< audio src="wxdu-2026-09-29.ogg" >}} ~
-
+[Tuesday, September 29, 2026 8-9am (with Trainee Shaun) Tidal Playlist](https://tidal.com/playlist/f0994ca3-aaf0-4122-9bf5-9dc4b85a8f81)\
 Sudan Archives - Confessions\
 Julia-Sophie - telephone\
 Harry Nilsson - Early in the Morning\
