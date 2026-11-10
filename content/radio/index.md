@@ -21,6 +21,27 @@ Or listen to my last four shows below :)
 caption="The WXDU Studio">}}
 {{</figure>}}
 
+[Tuesday, November 10, 2026 8-9am Tidal Playlist](https://tidal.com/playlist/3da9a46d-8586-4678-9df3-640819935f36)
+
+~ {{< audio src="west.ogg" >}} ~
+
+Sigh - Kushukankyo\
+Halasan Bazar - Go Out in Joy\
+CCFX - Ode\
+Macie Stewart - Finally\
+Aquiestoy - Nos Disuelve\
+Ahmed Ag Kaedy - Adounia\
+The Barr Brothers - Cloud (for Lhasa)\
+Ruth Garbus - Waiting On The Sun\
+Light Conductor - High In The Orange Air\
+Wet Tuna - Jettison Me\
+Hill View #73 - Noise Song\
+Jess Williamson - Topanga Two Step\
+Rahill - Futbol\
+Lalitree Darnielle - Dark Matter\
+Sophia Loizou - Artificial Infinite\
+Revelators Sound System - Collected Water
+
 [Tuesday, November 3, 2026 8-9am Tidal Playlist](https://tidal.com/playlist/66feaea3-d2fa-44fe-9c59-5fdeba7f2f85)
 
 ~ {{< audio src="south.ogg" >}} ~
@@ -85,10 +106,7 @@ Jane Remover - Flash in the Pan (Clean Edit)\
 Tokyo Shoegazer - Vega\
 Jon Hassell - Blue Ba-Ya
 
-[Tuesday, October 6, 2026 8-9am  (with Trainee Shaun) Tidal Playlist](https://tidal.com/playlist/65728b0c-7327-4202-8dde-220e5e904374)
-
-~ {{< audio src="wxdu-2026-10-06.ogg" >}} ~
-
+[Tuesday, October 6, 2026 8-9am  (with Trainee Shaun) Tidal Playlist](https://tidal.com/playlist/65728b0c-7327-4202-8dde-220e5e904374)\
 Natalie Prass - My Baby Don't Understand Me\
 Blind Willie Johnson - Dark Was the Night, Cold Was the Ground\
 Jake Xerxes Fussell - Early Early in the Spring\
