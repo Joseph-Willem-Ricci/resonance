@@ -21,6 +21,29 @@ Or listen to my last four shows below :)
 caption="The WXDU Studio">}}
 {{</figure>}}
 
+[Wednesday, November 18, 2026 8-9am Tidal Playlist](https://tidal.com/playlist/e4036837-4928-447f-b529-4fbd93b854dc)
+
+~ {{< audio src="north.ogg" >}} ~
+
+Purelink - Kite Scene\
+Cassandra Jenkins - Betelgeuse\
+Black Duck, Elena Setién - War Zone\
+Diatom Deli - Massive Headships of Centering Tiles\
+Horse Lords - Time Slip\
+Chanel Beads - The Coward Forgets His Nightmare\
+Maggie Björklund, Kurt Wagner - Fro Fro Heart\
+Flaming Tunes - Breast Stroke\
+Steve Gunn - Concrete Beach\
+Jane Inc. - Human Being\
+Accra Quartet - Korle Gonno\
+Joe Rainey - Ch. 1222\
+Sam Gendel - Sx Mrnng\
+Courant Zéro - Horizon n'arrete\
+Joe Westerlund - Watercolor Envy\
+Ibibio Sound Machine - Love\
+Samantha Glass - Blankets\
+The Watergirls - The Whole Of The Moon (Radio Edit)
+
 [Tuesday, November 10, 2026 8-9am Tidal Playlist](https://tidal.com/playlist/3da9a46d-8586-4678-9df3-640819935f36)
 
 ~ {{< audio src="west.ogg" >}} ~
@@ -87,10 +110,7 @@ Nightshift - Outta Space\
 Myrkur - Bålfærd\
 Black Meteoric Star - Pombagira
 
-[Tuesday, October 20, 2026 8-9am Tidal Playlist](https://tidal.com/playlist/11369dd8-f15f-452c-b5e0-7d3cac6aff9a)
-
-~ {{< audio src="north.ogg" >}} ~
-
+[Tuesday, October 20, 2026 8-9am Tidal Playlist](https://tidal.com/playlist/11369dd8-f15f-452c-b5e0-7d3cac6aff9a)\
 Marie Davidson - Validations Weight\
 Blind Yeo - Colour Pillow / Kologo\
 Healing Potpourri - Free\
